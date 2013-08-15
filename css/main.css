@@ -306,11 +306,11 @@ a:hover   { color: #2980b9; text-decoration: underline; }
 }
 
 .post-comments {
-  padding: 55px;
+  padding: 55px 100px;
   background: #f3f3f3;
 }
 
 .pagination {
   background: #f3f3f3;
-  padding: 55px;
+  padding: 55px 100px;
 }
