@@ -29,7 +29,7 @@ Apesar de não ter dado andamento nos meus estudos na UERJ, continuei estudando 
 
 Iria responder com um mero &#8220;depende&#8221; mas depois de ter lido o post do Akita ontem e ver a resposta dele, vou precisar citar por ser bem mais coerente.
 
-> #### Na dúvida, faça.
+> Na dúvida, faça.
 > 
 > Akita
 
@@ -79,28 +79,28 @@ Caso ainda não tenha certeza sobre o que quer da vida, entre numa faculdade.
 
 Existem diversos métodos mas vou citar os que achei mais eficientes no decorrer do tempo.
 
-*   **Faça cursos: **É um pouco óbvio mas é preciso ter cuidado. Existem muitas ciladas nesse meio. Antes de iniciar qualquer curso entre em contato com pessoas que já fizeram e observe se esse profissional realmente é qualificado para avaliar o curso.
+*   **Faça cursos:** É um pouco óbvio mas é preciso ter cuidado. Existem muitas ciladas nesse meio. Antes de iniciar qualquer curso entre em contato com pessoas que já fizeram e observe se esse profissional realmente é qualificado para avaliar o curso.
 
     Para quem nunca viu uma linha de código, qualquer curso é uma maravilha.
 
     No Rio de Janeiro posso citar a Caelum como uma excelente opção. Já ouvi boas opiniões a respeito da Infnet e da Coti também, porém não tive nenhuma experiência com eles.
-*   **Seja ativo na comunidade: **Uma das magias da Informática é ter uma comunidade extremamente ativa. Praticamente todas as áreas tem comunidades ativas online e boa parte delas já realiza eventos e encontros offline também.
+*   **Seja ativo na comunidade:** Uma das magias da Informática é ter uma comunidade extremamente ativa. Praticamente todas as áreas tem comunidades ativas online e boa parte delas já realiza eventos e encontros offline também.
 
     É uma excelente oportunidade de networking e de ficar por dentro das novidades. Participar de eventos e ser ativo na comunidade de sua área é de suma importância para se manter atualizado e direcionar seus estudos.
-*   **Leia livros/blogs: **Leia, mas leia muito. Se não gosta de ler diariamente vai ter problemas para avançar em sua carreira.
+*   **Leia livros/blogs:** Leia, mas leia muito. Se não gosta de ler diariamente vai ter problemas para avançar em sua carreira.
 
     Existem diversos blogs com um material excelente e com opiniões de profissionais tops do mercado.  Além disso existem livros excelentes que vão te ajudar durante anos.
 
     Não vou citar nenhum blog que acompanho pois são bem focados na área de desenvolvimento, porém tenho muito gosto pela editora O&#8217;Reilly. Todos os livros que eu li até hoje foram excelentes e notei que ela abrange diversas áreas.
-*   **Coloque a mão na massa: **Não adianta só ler, não adianta só estudar, não adianta só se preparar. Tem que por a mão na massa. Tente sempre por em prática tudo que aprende. Só assim vai saber se aquilo é realmente útil e se foi um investimento de tempo válido.
+*   **Coloque a mão na massa:** Não adianta só ler, não adianta só estudar, não adianta só se preparar. Tem que por a mão na massa. Tente sempre por em prática tudo que aprende. Só assim vai saber se aquilo é realmente útil e se foi um investimento de tempo válido.
 
     Faça pequenos testes mesmo que não tenha domínio total de algo, é melhor fazer errado e descobrir porque errou depois, do que deixar pra testar no final e se deparar com erros bobos que já deveria ter enfrentado.
-*   **Não se acomode: **Como disse Zeno Rocha em uma palestra que assisti em BH, sai da zona de conforto. Você não pode ser acomodado. Se por acaso achar que está bem tecnicamente e que pode relaxar vai acabar armando a própria armadilha. Você nunca vai chegar no nível técnico ideal, sempre vão ter coisas novas para descobrir e aprender e isso vai te tornar um profissional cada vez mais relevante e capacitado no mercado.
-*   **Saiba usar o google: **O google é seu melhor amigo. Saiba pesquisar e filtrar os resultados. Você vai realizar centenas de pesquisas diariamente, logo, vai precisar aprender a minerar o que é relevante e o que é balela. Nem sempre o google vai te entregar os melhores resultados.
+*   **Não se acomode:** Como disse Zeno Rocha em uma palestra que assisti em BH, sai da zona de conforto. Você não pode ser acomodado. Se por acaso achar que está bem tecnicamente e que pode relaxar vai acabar armando a própria armadilha. Você nunca vai chegar no nível técnico ideal, sempre vão ter coisas novas para descobrir e aprender e isso vai te tornar um profissional cada vez mais relevante e capacitado no mercado.
+*   **Saiba usar o google:** O google é seu melhor amigo. Saiba pesquisar e filtrar os resultados. Você vai realizar centenas de pesquisas diariamente, logo, vai precisar aprender a minerar o que é relevante e o que é balela. Nem sempre o google vai te entregar os melhores resultados.
 
     Algo que tem dado muito certo pra mim é realizar buscas em inglês e priorizar o StackOverflow. É impressionante como consigo respostas precisas e focadas no meu problema.
 *   **Saiba ler inglês:** É muito importante ao menos saber ler em inglês. A gama de material em inglês para qualquer área de TI é MUITO maior que a nacional.
-*   **Descubra o que estudar: **Não basta estudar, tem que saber direcionar seus estudos.
+*   **Descubra o que estudar:** Não basta estudar, tem que saber direcionar seus estudos.
 
     Uma forma eficiente de saber para onde mirar é pesquisar o que as grandes empresas tem usado e o que elas cobram de seus profissionais.
 

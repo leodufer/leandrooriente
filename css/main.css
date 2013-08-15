@@ -25,8 +25,8 @@ body {
   position: relative;
 }
 
-a         { color: #00a; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
+a         { color: #3498db; text-decoration: none; }
+a:hover   { color: #2980b9; text-decoration: underline; }
 
 .btn {
   background: rgba(0,0,0,0.2);
@@ -56,7 +56,7 @@ a:hover   { color: #000; text-decoration: underline; }
 }
 
 .header {
-  padding: 55px;
+  padding: 55px 100px;
   background: url(/images/bg-header.jpg);
   text-align: center;
   min-height: 314px;
@@ -90,7 +90,7 @@ a:hover   { color: #000; text-decoration: underline; }
 
 .footer {
   background: #111;
-  padding: 55px 55px 10px;
+  padding: 55px 100px 10px;
   
   color: #666;
 }
@@ -204,7 +204,7 @@ a:hover   { color: #000; text-decoration: underline; }
   position: relative;
 }
 .post-item {
-  padding: 55px;
+  padding: 100px;
   position: relative;
 }
 .post-item:nth-child(2n) {
@@ -265,11 +265,35 @@ a:hover   { color: #000; text-decoration: underline; }
   margin-top: 0;
 }
 
+.post-content a {
+  border-bottom: 1px dashed #bbb;
+}
+.post-content a:hover {
+  border-bottom: 1px solid #2980b9;
+  text-decoration: none;
+}
 .post-content p {
   font-size: 16px;
   line-height: 24px;
   margin-bottom: 20px;
 }
+
+.post-content li {
+  margin: 0 0 20px 20px;
+}
+
+.post-content blockquote {
+  background: #f5f2f0;
+  padding: 20px;
+  margin: 0 0 20px 20px;
+  display: inline-block;
+  border-left: 3px solid #333;
+}
+.post-content blockquote p {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
 
 .post-page .post-title { 
   font-size: 32px;
