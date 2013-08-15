@@ -1,0 +1,9 @@
+name: Leandro Oriente
+markdown: redcarpet
+pygments: true
+permalink: /:title
+paginate: 5
+
+title : Leandro Oriente2
+tagline: I'm Front-end Engineer
+

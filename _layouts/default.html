@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title> 
+        <meta name="viewport" content="width=device-width">
+        <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/syntax.css">
+        <link href="/css/font-awesome.min.css" rel="stylesheet">
+    </head>
+    <body>
+      <div class="site">
+        <!-- <nav class="navigation">
+            <ul>
+                <li><a href="">Sobre</a></li>
+                <li><a href=""></a></li>
+                <li><a href=""></a></li>
+            </ul>
+        </nav> -->
+        <header class="header {{ page.headerClass }}">
+          <div class="top-nav cf">
+            <h1 class="logo"><a href="/">{{ site.name }}</a></h1>
+            <h2 class="description-header">
+              Desenvolvedor Front End
+            </h2>
+          </div>
+        </header>
+        <section class="content">
+            {{ content }}
+        </section>
+        <footer class="footer">
+            <p>Leandro Oriente, Desenvolvedor Front End</p>
+            <ul class="socials clearfix">
+                <li><a class="facebook" href="http://facebook.com/leandrooriente"><i class="icon-facebook"></i></a></li>    
+                <li><a class="linkedin" href="http://www.linkedin.com/in/leandrooriente"><i class="icon-linkedin"></i></a></li>
+                <li><a class="picture" href="http://500px.com/leandrooriente"><i class="icon-picture"></i></a></li>
+                <li><a class="instagram" href="http://instagram.com/leandrooriente"><i class="icon-instagram"></i></a></li>
+                <li><a class="mail" href="mailto:leandroriente@gmail.com"><i class="icon-envelope"></i></a></li>
+            </ul>
+            <p>Atualmente trabalhando na <a href="http://www.vtex.com.br">Vtex</a></p>
+            <p>Rio de Janeiro, RJ - 21 9461-7213 - <a href="mailto:leandroriente@gmail.com">leandroriente@gmail.com</a></p>
+            <p class="copyright">Carinhosamente desenvolvido com <a href="http://jekyllrb.com/">Jekyll</a></p>
+        </footer>
+      </div>
+
+    </body>
+</html>
