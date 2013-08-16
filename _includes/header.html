@@ -1,0 +1,18 @@
+        <header class="header">
+            {% if page.type == "post" %}
+            <p class="logo"><a href="/">{{ site.name }}</a></p>
+            {% else %}
+            <h1 class="logo"><a href="/">{{ site.name }}</a></h1>
+            {% endif %}
+            <nav class="top-nav">
+                <ul>
+                    <li>
+                        <a href="/about"><i class="icon-bookmark-empty"></i> Sobre</a>
+                    </li>
+                    <li>
+                        <a href="/about"><i class="icon-envelope-alt"></i> Contato</a>
+                    </li>
+                </ul>
+            </nav>
+          
+        </header>

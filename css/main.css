@@ -9,6 +9,9 @@
   margin: 0;
   padding: 0;
 }
+.cb {
+  clear: both;
+}
 .cf:before,
 .cf:after {
     content: " "; /* 1 */
@@ -59,33 +62,75 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   padding: 55px 100px;
   background: url(/images/bg-header.jpg);
   text-align: center;
-  min-height: 314px;
+  min-height: 150px;
 }
-.header-min {
-  min-height: 120px;
+.logo {
+  float: left;
+  overflow: hidden;
 }
 .logo a {
-  font: normal normal 42px "Montserrat", Arial, Helvetica;
+  /*font: normal normal 42px "Montserrat", Arial, Helvetica;
   font-weight: 700;
   text-shadow: 5px 5px #588db9;
   color: #fff;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 2px;*/
+  width: 85px;
+  height: 85px;
+  background: url(/images/logo.png) bottom center;
+  text-indent: -999px;
+  overflow: hidden;
+  display: block;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 .logo a:hover {
   text-decoration: none;
+  background-position: top center;
   text-shadow: none;
 }
+.top-nav {
+  float: left;
+  min-width: 400px;
+  text-align: left;
+  padding: 30px 0;
+  margin-left: 55px;
+}
+.top-nav li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 15px;
+}
+.top-nav a {
+  color: #fff;
+  font-family: 'Montserrat', Arial, Helvetica;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 18px;
+}
 .description-header {
-  color: #226699;
+  display: none;
+  /*color: #226699;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 12px;
   font-weight: normal;
-  line-height: 24px;
+  line-height: 24px;*/
+  color: #fff;
+  font-size: 28px;
+  font-weight: normal;
+  max-width: 600px;
+  margin: 70px auto 0;
+}
+.description-title {
+  font-family: 'Montserrat', Arial, Helvetica;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 72px;
+  text-transform: uppercase;
+  display: block;
 }
 
 .footer {
@@ -194,6 +239,17 @@ a:hover   { color: #2980b9; text-decoration: underline; }
 }
 
 
+.right-main-col {
+  float: right;
+  width: 75%;
+}
+
+.left-sidebar-col {
+  float: left;
+  width: 20%;
+  margin-right: 5%;
+}
+
 
 /* CONTENT */
 .content {
@@ -205,6 +261,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
 }
 .post-item {
   padding: 100px;
+  overflow: hidden;
   position: relative;
 }
 .post-item:nth-child(2n) {
@@ -229,9 +286,32 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   font: normal bold 16px "Montserrat", Arial, Helvetica;
   letter-spacing: 2px;
 }
+
+.post-author {
+
+}
+.post-author-title {
+  font: normal bold 12px "Montserrat", Arial, Helvetica;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 10px 0 15px;
+  display: block;
+}
+.post-author-description {
+  font-size: 12px;
+  color: #999;
+}
+.profile-pic {
+  border-radius: 50%;
+  border: 5px solid #fff;
+  box-shadow: 1px 1px 5px #ccc;
+}
+
 .post-content {
   clear: both;
+  overflow: hidden;
   color: #495962;
+  vertical-align: baseline;
 }
 
 .post-content .highlight {
@@ -273,8 +353,8 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   text-decoration: none;
 }
 .post-content p {
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 18px;
+  line-height: 28px;
   margin-bottom: 20px;
 }
 
@@ -294,10 +374,26 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   margin: 5px 0;
 }
 
+.post-content figure {
+  padding: 10px;
+  margin: 0 0 20px;
+  background: #eee;
+}
+.post-content figure img {
+  max-width: 100%;
+}
+.post-content figure figcaption {
+  text-transform: uppercase;
+  font-size: 10px;
+  display: inline-block;
+  padding: 5px 0;
+}
+
 
 .post-page .post-title { 
   font-size: 32px;
   line-height: 42px;
+  float: none;
 }
 .post-page .post-date {
   float: left;
@@ -313,4 +409,39 @@ a:hover   { color: #2980b9; text-decoration: underline; }
 .pagination {
   background: #f3f3f3;
   padding: 55px 100px;
+}
+
+/* ABOUT */
+.about-page {
+
+}
+.about-page h1 {
+  margin-bottom: 25px;
+}
+.profile-pic-about {
+  float: left;
+  width: 33%;
+  margin-right: 7%;
+}
+.profile-pic-about img {
+  width: 100%;
+}
+.about-description {
+  float: left;
+  width: 60%;
+}
+.profile-pic-about .socials {
+  text-align: left;
+}
+.profile-pic-about .socials li {
+  margin: 0 10px 0 0;
+}
+.profile-pic-about .socials a {
+  background: #eee;
+  border: 1px solid #ccc;
+}
+
+.photographer-about {
+  margin: 100px 0 0;
+  clear: both;
 }
