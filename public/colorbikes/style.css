@@ -1,0 +1,741 @@
+@font-face {
+	font-family: 'ico';
+	src: url('configurador/icones.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ropa Sans';
+	src: url('configurador/ropasans-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+body {
+	background: #f9f9f9;
+	position: relative;
+	font-family: "Ropa Sans", sans-serif;
+	padding: 0;
+	margin: 0;
+}
+.container {
+	width: 1015px;
+	margin: 0 auto;
+	position: relative;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+.header-app {
+	background: url(configurador/bg_topo.png) repeat-x top #fff;
+	padding: 38px 0 20px;
+	box-shadow: 0 0 10px #999;
+}
+.title {
+	font: normal bold 32px "Ropa Sans", sans-serif;
+	letter-spacing: -.05em;
+}
+.title:before {
+	content: "8";
+}
+.pre-loader {
+	position: absolute;
+	left: -999px;
+}
+.ico:before {
+	font-family: ico;
+	margin-right: .3em;
+}
+.application {
+	width: 1015px;
+	margin: 50px auto;
+	position: relative;
+}
+#logo-color-bikes-app {
+	position: absolute;
+	top: -30px;
+	right: 33px;
+}
+
+#visualizador {
+	float: left;
+	margin-right: 14px;
+	width: 722px;
+	opacity: 0;
+}
+.btn-visualizador-conf {
+	position: absolute;
+	top: 10px;
+	left: 0;
+	z-index: 9999;
+	background: #fcfcfc;
+	padding: 0;
+	border: 1px solid #ccc;
+	display: inline-block;
+	cursor: pointer;
+}
+#visualizador-conf {
+	margin: 0;
+	padding: 10px 10px 6px;
+	font-size: 16px;
+	line-height: 16px;
+	z-index: 9999;
+}
+#visualizador-conf:before {
+	font-weight: 700;
+	background-color: #555;
+	color: #fff;
+	display: inline-block;
+	border: none;
+	padding: 4px;
+	border-radius: 4px;
+	font-size: 12px;
+	cursor: pointer;
+	line-height: 120%;
+	-webkit-box-sizing: content-box;
+	   -moz-box-sizing: content-box;
+			box-sizing: content-box;
+	content: "y";
+	position: relative;
+	top: -3px;
+}
+
+#configurador {
+	float: left;
+	margin-left: 17px;
+	padding: 16px;
+	background-color: #fff;
+	border-radius: 5px;
+	border: 1px solid #eee;
+	width: 186px;
+	font-size: 1.2em;
+	letter-spacing: -.09em;
+	position: relative;
+}
+#configurador span {
+	display: block;
+	clear: both;
+}
+#configurador li, #configurador p {
+	margin: 0;
+	padding: 10px 0;
+	font-size: 16px;
+	line-height: 16px;
+	border-bottom: 1px solid #eee;
+	display: block;
+	clear: both;
+}
+#configurador p {
+	border: 0;
+}
+#configurador label {
+	display: block;
+	float: left;
+	cursor: pointer;
+	padding: 10px 0;
+	margin-right: 10px;
+}
+
+.buy-btn {
+	width: 100%;
+	cursor: pointer;
+	box-sizing: border-box;
+	padding: 10px 0;
+	text-align: center;
+	background: #7fa829;
+	background-image: -webkit-linear-gradient(top,#7fa829,#709424);
+	text-transform: uppercase;
+	font-size: 14px;
+	text-shadow: 1px 1px rgba(0, 0, 0, .3);
+	border: 0;
+	color: #fff;
+}
+.buy-btn img {
+	position: relative;
+	top: 1px;
+	left: -4px;
+}
+
+.overlay-modal {
+	display: none;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(255, 255, 255, .8);
+	z-index: 99999;
+}
+.modal {
+	width: 500px;
+	padding: 20px;
+	box-sizing: border-box;
+	height: auto;
+	top: -800px;
+	left: 50%;
+	margin-left: -250px;
+	position: absolute;
+	background: #fff;
+	box-shadow: 0 0 20px #ccc;
+}
+.modal .title {
+	height: auto;
+	margin-top: 0;
+	padding-top: 0;
+}
+#base-tr {
+	display: none;
+}
+.config-bike-table {
+	width: 100%;
+	border: 1px solid #eee;
+	padding: 10px;
+	font: normal normal 16px
+}
+.config-bike-table td {
+	padding: 5px 0;
+	border-bottom: 1px solid #eee;
+}
+.config-bike-table tr:last-child td {
+	border-bottom: 0;
+}
+.config-bike-table tr > td {
+	width: 170px;
+}
+.color-config {
+	width: 20px;
+	height: 20px;
+	position: relative;
+	top: 5px;
+	left: -5px;
+	border-radius: 4px;
+	border: 1px solid #eee;
+	display: inline-block;
+}
+
+.btn-close-modal {
+	cursor: pointer;
+	box-sizing: border-box;
+	padding: 10px;
+	display: block;
+	float: right;
+	text-align: center;
+	background: #333;
+	text-transform: uppercase;
+	font-size: 12px;
+	text-shadow: 1px 1px rgba(0, 0, 0, .3);
+	border: 0;
+	color: #fff;
+}
+
+.tag {
+	background: url(configurador/tip-color-n.png) no-repeat center center;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	text-align: center;
+	top: 0;
+	z-index: 99;
+	cursor: pointer;
+}
+.tag-cabofreio, .tag-canote {
+	background: url(configurador/tip-color-w.png) no-repeat center center;
+}
+.tag-cabofreio {
+	top: 124px;
+	right: 124px;
+}
+.tag-canote {
+	top: 127px;
+	left: 273px;
+}
+
+.tag-pneut, .tag-pneud {
+	background: url(configurador/tip-color-ne.png) no-repeat center center;
+}
+.tag-pneut {
+	left: 70px;
+	top: 499px;
+}
+.tag-pneud {
+	left: 489px;
+	top: 499px;
+}
+.tag-arod {
+	top: 202px;
+	right: 115px;
+}
+.tag-arot {
+	top: 202px;
+	left: 150px;
+}
+
+.tag-quadro {
+	left: 387px;
+	top: 131px;
+}
+.tag-corrente {
+	left: 223px;
+	top: 317px;
+}
+.tag-punho {
+	left: 504px;
+	top: 66px;
+}
+.tag-banco {
+	left: 254px;
+	top: 61px;
+}
+.tag-coroa {
+	background: url(configurador/tip-color-s.png) no-repeat center center;
+	top: 430px;
+	right: 366px;
+}
+
+.pallet {
+	display:none;
+	opacity: 0;
+	cursor: default;
+	background: url(configurador/bg_color.png) no-repeat scroll center center #FFF;
+	border: 8px solid #E7E7E7;
+	border-radius: 100px;
+	height: 100px;
+	width: 100px;
+	z-index: 999;
+	color: #fff;
+	font-weight: 700;
+	position: absolute;
+	text-align: center;
+	box-shadow: 0 0 10px #ddd;
+	margin: 0 auto;
+	padding: 10px;
+	top: -136px;
+	left: -43px;
+}
+.pallet-color {
+	position: absolute;
+	display: block;
+	height:28px;
+	width:28px;
+	border:1px solid #D7D7D7;
+	border-radius:28px 28px 28px 28px;
+	cursor:pointer;
+}
+.pallet-color0 {
+	top: 45px;
+	left: 6px;
+}
+.pallet-color1 {
+	top: 45px;
+	left: 84px;
+}
+.pallet-color2 {
+	top: 1px;
+	left: 45px;
+}
+.pallet-color3 {
+	top: 87px;
+	left: 45px;
+}
+.pallet-color4 {
+	top: 14px;
+	left: 14px;
+}
+.pallet-color5 {
+	top: 14px;
+	left: 75px;
+}
+.pallet-color6 {
+	top: 75px;
+	left: 14px;
+}
+.pallet-color7  {
+	top: 75px;
+	left: 75px;
+}
+
+/* PALLET 6 */
+.pallet-6 .pallet-color2 {
+	top: 11px;
+	left: 28px;
+}
+.pallet-6 .pallet-color3 {
+	top: 81px;
+	left: 28px;
+}
+.pallet-6 .pallet-color4 {
+	top: 81px;
+	left: 66px;
+}
+.pallet-6 .pallet-color5 {
+	top: 11px;
+	left: 66px;
+}
+
+.partSelector {
+	margin: 10px 0px;
+	cursor: pointer;
+	display: block;
+}
+.partSelector span {
+	width: 20px;
+	height: 20px;
+	position: relative;
+	top: -4px;
+	border-radius: 4px;
+	border: 1px solid #eee;
+	float: right;
+}
+
+#areabike {
+	position: relative;
+	top: -51px;
+	left: -28px;
+}
+#canote-fix-svg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0;
+}
+
+
+.areabike {
+/*background:url(configurador/background.png) no-repeat scroll 0 45px transparent;*/
+height:580px;
+position:relative;
+}
+
+#bg_bike {
+	background:url(configurador/background.png) no-repeat scroll 0 45px transparent;	
+}
+
+.banco {
+	position:absolute;
+	top: 89px !important;
+}
+.bg_banco {
+background-image:url(configurador/bg_selim.png);
+background-repeat:no-repeat;
+display:block;
+height:529px;
+position:absolute;
+width:750px;
+top: -45px;
+}
+
+.bg_quadro {
+background-image:url(configurador/bg_quadro2.png);
+background-repeat:no-repeat;
+display:block;
+height:529px;
+left:-1px;
+position:absolute;
+top:-45px;
+width:750px;
+opacity: .8;
+}
+
+.bg_corrente {
+position:absolute;
+background-image:url(configurador/bg_corrente.png);
+background-repeat:no-repeat;
+display:block;
+height:529px;
+width:750px;
+top:-45px;
+}
+
+.freio_traseiro {
+background:url(configurador/freio_traseiro.png) no-repeat scroll 0 0 transparent;
+height:85px;
+left:217px;
+position:absolute;
+top:181px !important;
+width:59px;
+z-index:1;
+}
+
+.aro_freio_traseiro {
+position:absolute;
+top: 91px !important;
+}
+
+.bg_pneu_traseiro {
+position:absolute;
+background-image:url(configurador/bg_pneu_traseiro.png);
+background-repeat:no-repeat;
+display:block;
+height:529px;
+width:750px;
+top:-42px;
+}
+
+.freio_dianteiro {
+background:url(configurador/freio_dianteiro.png) no-repeat scroll 0 0 transparent;
+height:133px;
+left:524px;
+position:absolute;
+top:125px !important;
+width:42px;
+z-index:1;
+}
+
+.bg_aro_traseiro {
+background-image:url(configurador/aro_traseiro.png);
+background-repeat:no-repeat;
+display:block;
+height:529px;
+position:absolute;
+top:-47px;
+width:750px;
+z-index:1;
+left: 1px;
+opacity: .2;
+}
+
+.aro_freio_dianteiro {
+position:absolute;
+top:90px;
+margin-left:1px;
+}
+
+.bg_aro_freio_dianteiro {
+    background-image: url("configurador/bg_aro_freio_dianteiro.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 529px;
+    left: -6px;
+    position: absolute;
+    top: -44px;
+    width: 750px;
+}
+
+.bg_pneu_dianteiro {
+background-image:url(configurador/bg_pneu_dianteiro.png);
+background-repeat:no-repeat;
+display:block;
+height:529px;
+left:1px;
+position:absolute;
+top:-44px;
+width:750px;
+}
+
+.bg_punho {
+background-image:url(configurador/bg_manopla.png);
+background-repeat:no-repeat;
+display:block;
+height:529px;
+left:1px;
+position:absolute;
+top:-44px;
+width:750px;
+}
+
+.bg_coroa {
+background-image:url(configurador/bg_pedivela.png);
+background-repeat:no-repeat;
+display:block;
+height:529px;
+left:1px;
+position:absolute;
+top:-44px;
+width:750px;
+}
+
+
+.bg_guidao {
+  	background-image: url("configurador/bg_guidao.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 529px;
+    left: 0;
+    position: absolute;
+    top: -46px;
+    width: 750px;
+}
+
+
+.bg_freio {
+	/*background-image: url(configurador/bg_freio.png);*/
+	background-repeat: no-repeat;
+	display: block;
+	height: 529px;
+	left: 1px;
+	position: absolute;
+	top: -45px;
+	width: 750px;
+}
+
+.bg_canote {
+	background-image: url(configurador/bg_canote.png);
+	background-repeat: no-repeat;
+	display: block;
+	height: 529px;
+	left: 1px;
+	position: absolute;
+	top: -45px;
+	width: 750px;
+	opacity: 0.5;
+}
+
+
+.bg_mesa {
+	background-image: url(configurador/bg_mesa.png);
+	background-repeat: no-repeat;
+	display: block;
+	height: 529px;
+	left: 1px;
+	position: absolute;
+	top: -45px;
+	width: 750px;
+	opacity: 0.5;
+}
+.quadro {
+	z-index: 2;
+}
+#opcoes_quadro_float {
+    left: 314px;
+    top: -14px;
+}
+
+
+#opcoes_corrente_float {
+left:170px;
+top:170px;
+}
+
+
+#opcoes_banco_float {
+    border-radius: 100px 100px 100px 100px;
+    height: 100px;
+    left: 185px;
+    padding: 10px;
+    top: -90px;
+    width: 100px;
+    z-index: 300;
+}
+
+.areabike > div {
+	position:absolute;
+	top: 91px;
+}
+
+.bg_aro_dianteiro{
+position:absolute;
+background-image:url("configurador/aro_dianteiro.png");
+background-repeat:no-repeat;
+display:block;
+height:529px;
+width:750px;
+top:-45px;
+opacity: .2;
+}
+
+.bg_aro_freio_traseiro {
+    background-image: url("configurador/bg_aro_freio_traseiro.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 529px;
+    left: 4px;
+    position: absolute;
+    top: -47px;
+    width: 750px;
+}
+/* http://keith-wood.name/svg.html
+   SVG for jQuery v1.4.5.
+   Written by Keith Wood (kbwood{at}iinet.com.au) August 2007.
+   Dual licensed under the GPL (http://dev.jquery.com/browser/trunk/jquery/GPL-LICENSE.txt) and 
+   MIT (http://dev.jquery.com/browser/trunk/jquery/MIT-LICENSE.txt) licenses. 
+   Please attribute the author if you use it. */
+
+svg\:svg {
+	display: none;
+}
+
+.svg_error {
+	color: red;
+	font-weight: bold;
+}
+
+
+
+
+/* CONFIGURATOR SELECTOR */
+.change-configurator a {
+	background: #fcfcfc;
+	padding: 10px 10px 10px 33px;
+	font-size: 16px;
+	border: 1px solid #ccc;
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+	color: #333;
+	margin-right: 15px;
+	position: relative;
+}
+.change-configurator a:before {
+	position: absolute;
+	content: "";
+	width: 13px;
+	height: 13px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	left: 10px;
+	top: 10px;
+}
+.change-configurator .selected:before {
+	background: #fff url(configurador/tick.png) center center no-repeat;
+}
+
+#combo-selector {
+	display: none;
+}
+
+#combo-selector li {
+	position: relative;
+	cursor: pointer;
+}
+#combo-selector li:before {
+	position: absolute;
+	content: '';
+	z-index: 999;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+
+#combo-selector li {
+	display: block;
+	width: 100%;
+	padding: 0;
+	margin-bottom: 35px;
+}
+#combo-selector li span {
+	display: block;
+	height: 20px;
+	width: 9.09%;
+	clear: none;
+	float: left;
+}
+
+#combo-selector .chrome-config-combo {
+	background: url(/configurador/bg_cromado.png);
+	position: relative;
+}
+#combo-selector .bw-config-combo {
+	background: #fff;
+	position: relative;
+}
+#combo-selector .bw-config-combo:before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 10px;
+	background: #000;
+	content: "";
+}
