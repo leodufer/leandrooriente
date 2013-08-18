@@ -1,0 +1,104 @@
+{
+	"combos" : [
+		{
+			"name" : "botafogo",
+			"showName" : "Botafogo",
+			"parts" : [
+				{
+					"partName" : "punho",
+					"color" : "000000"
+				},
+				{
+					"partName" : "cabofreio",
+					"color" : "000000"
+				},
+				{
+					"partName" : "arod",
+					"color" : "1a1a1a"
+				},
+				{
+					"partName" : "arot",
+					"color" : "1a1a1a"
+				},
+				{
+					"partName" : "pneud",
+					"color" : "e9e9e9"
+				},
+				{
+					"partName" : "pneut",
+					"color" : "e9e9e9"
+				},
+				{
+					"partName" : "coroa",
+					"color" : "bw"
+				},
+				{
+					"partName" : "corrente",
+					"color" : "e9e9e9"
+				},
+				{
+					"partName" : "banco",
+					"color" : "000000"
+				},
+				{
+					"partName" : "canote",
+					"color" : "chrome"
+				},
+				{
+					"partName" : "quadro",
+					"color" : "e9e9e9"
+				}
+			]
+		},
+		{
+			"name" : "flamengo",
+			"showName" : "Flamengo",
+			"parts" : [
+				{
+					"partName" : "punho",
+					"color" : "ff0000"
+				},
+				{
+					"partName" : "cabofreio",
+					"color" : "ff0000"
+				},
+				{
+					"partName" : "arod",
+					"color" : "1a1a1a"
+				},
+				{
+					"partName" : "arot",
+					"color" : "1a1a1a"
+				},
+				{
+					"partName" : "pneud",
+					"color" : "ff0000"
+				},
+				{
+					"partName" : "pneut",
+					"color" : "ff0000"
+				},
+				{
+					"partName" : "coroa",
+					"color" : "000000"
+				},
+				{
+					"partName" : "corrente",
+					"color" : "ff0000"
+				},
+				{
+					"partName" : "banco",
+					"color" : "ff0000"
+				},
+				{
+					"partName" : "canote",
+					"color" : "000000"
+				},
+				{
+					"partName" : "quadro",
+					"color" : "000000"
+				}
+			]
+		}
+	]
+}
