@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Faculdade de Informática. Fazer ou não fazer?"
-date:   2013-08-16 23:32:48
+tags: faculdade
 ---
 
 

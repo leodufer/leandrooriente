@@ -28,3 +28,7 @@ analytics :
     provider : google 
     google : 
         tracking_id : 'UA-25340215-1'
+
+
+tags:
+  template: _layouts/tag.html

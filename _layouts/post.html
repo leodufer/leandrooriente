@@ -11,6 +11,14 @@ type: post
 			</h1>
 			<p class="post-date">{{ page.date | date_to_string }}</p>
 		</header>
+		<div class="tags-post">
+			<ul>
+			{% if post.tags %}
+				<li>Tagged with: {{ post.tags | tag_link | array_to_sentence_string }}</li>
+			{% endif %}
+				
+			</ul>
+		</div>
 		<div class="post-content">
 				{{ content }}
 		</div> <!-- post-content --> 

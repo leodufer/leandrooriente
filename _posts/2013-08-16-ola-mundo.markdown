@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Olá mundo"
-date:   2013-08-15 22:32:48
+tags: general
 ---
 
 Não curto muito formalidades, mas gostaria de apresentar quem vai manter esse blog ou pelo menos tentar.

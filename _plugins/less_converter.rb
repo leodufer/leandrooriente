@@ -5,7 +5,7 @@
 module Jekyll
   class LessConverter < Converter
     safe true
-    priority :high
+    priority :highest
     
     def setup
       return if @setup
