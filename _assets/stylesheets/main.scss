@@ -168,14 +168,18 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   list-style:none;
 }
 .socials li {
+  margin: 0 10px 25px 0;
+  width: 35px;
+  text-align: center;
   float:none;
   display:inline-block;
 }
 .socials a {
   color:#616666;
   font-size:16px;
-  padding:4px 10px;
-  padding-right:9px;
+  padding: 4px 0;
+  width: 100%;
+  display: block;
   background: #333;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
@@ -437,10 +441,15 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   text-align: left;
 }
 .profile-pic-about .socials li {
-  margin: 0 10px 0 0;
+  margin: 0 10px 25px 0;
+  width: 35px;
+  text-align: center;
 }
 .profile-pic-about .socials a {
   background: #eee;
+  padding: 4px 0;
+  width: 100%;
+  display: block;
   border: 1px solid #ccc;
 }
 
@@ -460,7 +469,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   .socials {
     li {
       margin: 0 25px 0 0;
-      width: 55px;
+      width: 75px;
       text-align: center;
     }
     a {
@@ -471,4 +480,102 @@ a:hover   { color: #2980b9; text-decoration: underline; }
       border: 1px solid #ccc;
     }
   }
+}
+
+@media (max-width : 768px) {
+  .site {
+    margin: 0;
+  }
+  .header, .footer, .post-item {
+    padding: 55px;
+  }
+  .post-date {
+    float: left;
+    margin-top: 15px;
+    clear: both;
+  }
+  .left-sidebar-col, .right-main-col {
+    clear: both;
+    float: none;
+    width: 100%;
+  }
+
+  .left-sidebar-col {
+    padding-top: 15px;
+    margin-top: 15px;
+    border-top: 3px solid #eee;
+  }
+
+  // POST
+  .profile-pic {
+    max-width: 75px;
+    width: 100%;
+    float: left;
+  }
+  .author-details {
+    float: left;
+    margin-left: 15px;
+  }
+
+  // ABOUT
+  .profile-pic-about {
+    width: 15%;
+  }
+  .about-description {
+    width: 78%
+  }
+
+  // FOOTER
+  .footer {
+    .copyright {
+      text-align: left;
+    }
+  }
+}
+
+@media (max-width : 480px) {
+  .header, .footer, .post-item {
+    padding: 20px;
+  }
+  .top-nav {
+    width: 100%;
+    margin: 10px 0;
+    float: none;
+    clear: both;
+  }
+
+  // ABOUT
+  .profile-pic-about {
+    width: 100%;
+    float: none;
+  }
+  .about-description {
+    width: 100%;
+    float: none;
+  }
+
+  // CONTACT
+  .contact p {
+    font-size: 24px;
+  }
+  .contact {
+  p {
+    font-size: 24px;
+  }
+
+  .socials {
+    li {
+      margin: 0 15px 0 0;
+      width: 45px;
+      text-align: center;
+    }
+    a {
+      background: #eee;
+      width: 100%;
+      display: block;
+      font-size: 24px;
+      border: 1px solid #ccc;
+    }
+  }
+}
 }
