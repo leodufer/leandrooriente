@@ -30,5 +30,12 @@ analytics :
         tracking_id : 'UA-25340215-1'
 
 
-tags:
-  template: _layouts/tag.html
+assets:
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/images
+  js_compressor:  yui
+  css_compressor: sass
+  cache: true
+  gzip: [ text/css, application/javascript ]
