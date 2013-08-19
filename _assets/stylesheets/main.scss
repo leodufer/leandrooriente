@@ -486,7 +486,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   .site {
     margin: 0;
   }
-  .header, .footer, .post-item {
+  .header, .footer, .post-item, .post-comments {
     padding: 55px;
   }
   .post-date {
@@ -534,7 +534,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
 }
 
 @media (max-width : 480px) {
-  .header, .footer, .post-item {
+  .header, .footer, .post-item, .post-comments {
     padding: 20px;
   }
   .top-nav {
