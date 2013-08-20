@@ -502,8 +502,8 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   }
   .top-nav {
     width: 100%;
-    box-sizing: border-box;
     margin: 10px 0;
+    min-width: 0;
     float: none;
     clear: both;
   }
