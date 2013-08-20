@@ -1,6 +1,29 @@
 //= require syntax
 //= require font-awesome
 
+@font-face {
+    font-family: 'montserratbold';
+    src: url('/font/montserrat-bold-webfont.eot');
+    src: url('/font/montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/font/montserrat-bold-webfont.woff') format('woff'),
+         url('/font/montserrat-bold-webfont.ttf') format('truetype'),
+         url('/font/montserrat-bold-webfont.svg#montserratbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'noto_sansitalic';
+    src: url('/font/notosans-italic-webfont.eot');
+    src: url('/font/notosans-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/font/notosans-italic-webfont.woff') format('woff'),
+         url('/font/notosans-italic-webfont.ttf') format('truetype'),
+         url('/font/notosans-italic-webfont.svg#noto_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 /*****************************************************************************/
 /*
 /* Common
