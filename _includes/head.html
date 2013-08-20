@@ -4,6 +4,13 @@
         <title>{{ page.title }}</title> 
         <meta name="viewport" content="width=device-width">
 
+        <meta property="og:title" content="{{page.title}}"/>
+        <meta property="og:site_name" content="{{site.name}}"/>
+        <meta property="og:url" content="{{site.production_url }}{{page.url}}"/>
+        <meta property="og:image" content="{{site.production_url }}/images/profile.jpg"/>
+        <meta property="og:type" content="blog"/>
+        <meta property="og:description" content=""/>
+
         <link href='/favicon.ico' rel='shortcut icon'/> 
 
         <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
