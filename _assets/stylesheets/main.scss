@@ -500,6 +500,13 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   .header, .footer, .post-item, .post-comments {
     padding: 55px;
   }
+  .top-nav {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 10px 0;
+    float: none;
+    clear: both;
+  }
   .post-date {
     float: left;
     margin-top: 15px;
@@ -547,12 +554,6 @@ a:hover   { color: #2980b9; text-decoration: underline; }
 @media (max-width : 480px) {
   .header, .footer, .post-item, .post-comments {
     padding: 20px;
-  }
-  .top-nav {
-    width: 100%;
-    margin: 10px 0;
-    float: none;
-    clear: both;
   }
 
   // ABOUT
