@@ -411,6 +411,12 @@ a:hover   { color: #2980b9; text-decoration: underline; }
 .share-post {
   clear: both;
   margin: 25px 0;
+  padding-top: 15px;
+  margin-top: 15px;
+  border-top: 3px solid #f3f3f3;
+}
+.social-container {
+  margin: 25px 0 0;
 }
 
 .post-comments {
