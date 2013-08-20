@@ -1,29 +1,6 @@
 //= require syntax
 //= require font-awesome
 
-@font-face {
-    font-family: 'Montserrat';
-    src: url('/font/montserrat-bold-webfont.eot');
-    src: url('/font/montserrat-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/montserrat-bold-webfont.woff') format('woff'),
-         url('/font/montserrat-bold-webfont.ttf') format('truetype'),
-         url('/font/montserrat-bold-webfont.svg#montserratbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-@font-face {
-    font-family: 'Noto Sans';
-    src: url('/font/notosans-italic-webfont.eot');
-    src: url('/font/notosans-italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/font/notosans-italic-webfont.woff') format('woff'),
-         url('/font/notosans-italic-webfont.ttf') format('truetype'),
-         url('/font/notosans-italic-webfont.svg#noto_sansitalic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 /*****************************************************************************/
 /*
 /* Common
@@ -50,7 +27,7 @@
 
 body {
   background-color: #363d40;
-  font: 14px "Noto Sans", Arial, Helvetica;
+  font: 14px Helvetica, Arial;
   position: relative;
 }
 
@@ -67,7 +44,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   color: #fff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  font-family: "Montserrat", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial;
 }
 .btn:hover {
   background: rgba(0,0,0,0.4);
@@ -95,7 +72,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   overflow: hidden;
 }
 .logo a {
-  /*font: normal normal 42px "Montserrat", Arial, Helvetica;
+  /*font: normal normal 42px Helvetica, Arial;
   font-weight: 700;
   text-shadow: 5px 5px #588db9;
   color: #fff;
@@ -129,7 +106,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
 }
 .top-nav a {
   color: #fff;
-  font-family: 'Montserrat', Arial, Helvetica;
+  font-family: Helvetica, Arial;
   letter-spacing: 2px;
   text-transform: uppercase;
   font-size: 18px;
@@ -150,7 +127,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   margin: 70px auto 0;
 }
 .description-title {
-  font-family: 'Montserrat', Arial, Helvetica;
+  font-family: Helvetica, Arial;
   letter-spacing: 2px;
   font-weight: bold;
   font-size: 42px;
@@ -302,7 +279,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   overflow: hidden;
 }
 .post-title {
-  font: normal bold 16px "Montserrat", Arial, Helvetica;
+  font: normal bold 16px Helvetica, Arial;
   text-transform: uppercase;
   letter-spacing: 2px;
   float: left;
@@ -313,7 +290,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   float: right;
   color: #B0B8BD;
   text-transform: uppercase;
-  font: normal bold 16px "Montserrat", Arial, Helvetica;
+  font: normal bold 16px Helvetica, Arial;
   letter-spacing: 2px;
 }
 
@@ -321,7 +298,7 @@ a:hover   { color: #2980b9; text-decoration: underline; }
 
 }
 .post-author-title {
-  font: normal bold 12px "Montserrat", Arial, Helvetica;
+  font: normal bold 12px Helvetica, Arial;
   text-transform: uppercase;
   letter-spacing: 2px;
   margin: 10px 0 15px;
@@ -612,5 +589,4 @@ a:hover   { color: #2980b9; text-decoration: underline; }
       border: 1px solid #ccc;
     }
   }
-}
 }
