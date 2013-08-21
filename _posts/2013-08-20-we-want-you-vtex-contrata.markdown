@@ -21,7 +21,7 @@ Acabamos de abrir duas vagas para estagio. Perfil: **o seu**.
 * Continuous Delivery, TeamCity e Amazon AWS
 
 
-Estamos mudando o e-commerce da América Latina.Para muito melhor.
+Estamos mudando o   e-commerce da América Latina para melhor.
 
 Se você gosta de resolver problemas e nada te dá mais satisfação que publicar uma versão nova da sua app, venha trabalhar conosco.
 
@@ -32,7 +32,7 @@ Eu citei que temos **Playstation 3**? (Bônus se você trouxer mais um controle)
 
 Botafogo - Rio de Janeiro - RJ
 
-Front end: [guilherme@vtex.com.br](mailto:guilherme@vtex.com.br)
+Front end: [guilherme@vtex.com.br](mailto:guilherme@vtex.com.br)<br />
 Back end: [gabriel.arrais@vtex.com.br](mailto:gabriel.arrais@vtex.com.br)
 
 PS: Você **não precisa** saber essas tecnologias. <br />
