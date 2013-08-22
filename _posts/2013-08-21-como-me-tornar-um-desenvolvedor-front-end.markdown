@@ -16,7 +16,7 @@ Seria bacana ler esse post sobre [faculdades e seus benefícios para desenvolved
 
 Primeiramente vamos falar sobre items claramente obrigatórios. Depois partimos para os diferenciais de fato.
 
-## Must to have
+## Must have
 
 ### HTML e CSS
 
@@ -100,9 +100,9 @@ O cliente vai olhar pro layout que o Designer mandou e vai querer que aquele JPE
 Novamente, você não precisa ser o Fábio Sasso do Photoshop, porém saiba o básico dele e do Fireworks.
 
 É mais comum ver designers trabalhando com Photoshop, porém alguns usam o Fireworks e para descobrir medidas, cores e pegar algumas imagens não é necessário certificação Adobe. <br />
-Meia horinha no google é mais que suficiente para aprnder a extrair informações de qualquer layout.
+Meia horinha no google é mais que suficiente para aprender a extrair informações de qualquer layout.
 
-Fireworks ou Photoshop? Quiabo.
+Fireworks ou Photoshop? Quiabo.<br />
 Posso usar GIMP? Se o Designer não mandar um arquivo .psd, porque não?
 
 
@@ -143,11 +143,11 @@ Tente não ficar 100% preso ao mundo Windows.
 
 Com essas skills você já consegue emprego em boa parte das agências ruins do país e em algumas médias.
 
-Vai ganhar mal, se estressar, madrugar na agência diariamente e ser explorado mas veja pelo lado bom você não trabalha em Call center.
+Vai ganhar mal, se estressar, madrugar na agência diariamente e ser explorado mas veja pelo lado bom, você não trabalha em Call center.
 
 Em um ou dois anos você consegue um domínio razoável em todos os pontos que citei aqui se mantiver um ritmo razoável.
 
-Se for bem dedicado e autodidata, consegue em bem menos tempo. Se tiver bagagem de outras áreas de TI vai ter mais facilidade também.
+Se for bem dedicado e autodidata, consegue em bem menos tempo. Se tiver bagagem de outras áreas de TI vai ter mais facilidade ainda.
 
 O importante nessa etapa é não se acomodar. Dominar essas skills te abre muitas portas mas não é o suficiente para conseguir empregos mais gratificantes.
 
