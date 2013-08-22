@@ -6,19 +6,11 @@ tags: general "front end' curriculo
 
 ![Developer](/media/developer.jpg)
 
-Notaram como o título ficou péssimo?<br /> 
-Já tinha algo projetado para falar a respeito e um título bem mais apropriado.<br />
-Porém essa manhã, investigando o Google Analytics do site notei que vários acessos da busca orgânica caem nesse termo.
+Minha visão de obrigações e diferenciais de desenvolvedores front end e algumas pequenas dicas a respeito.
 
-Aproveitando de meus dotes negros de SEO resolvi usar esse título pouco amigável mas com potencial de ranquear bem.
-
-O que sou eu senão um aproveitador barato?
+Esse post é baseado nas experiências que já tive na área. Confesso que não são muitas, mas como estamos vivendo o amadurecimento do profissional de Front End agora, acredito que sejam válidas.
 
 <!--more-->
-
-## Currículo de um desenvolvedor front end
-
-Agora focando no post em si, gostaria de falar um pouco sobre a minha visão de obrigações e diferenciais de desenvolvedores front end e algumas pequenas dicas a respeito.
 
 Seria bacana ler esse post sobre [faculdades e seus benefícios para desenvolvedores front end](/faculdade-de-informatica-fazer-ou-nao-fazer) como leitura complementar.
 
