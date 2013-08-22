@@ -48,7 +48,7 @@ O seu dia a dia vai estar recheado de loops, condicionais e variáveis. Não sab
 
 "Mas eu odeio programação. Se quisesse programar virava Back End"
 
-Por favor jovem. Ative o código secreto do meu blog. "Ctrl + w" (Cmd para os felizardos).
+Por favor, jovem. Ative o código secreto do meu blog. "Ctrl + w" (Cmd para os felizardos).
 
 ### jQuery
 
@@ -85,7 +85,7 @@ Não? Nem queira. É um desastre total.
 
 O mesmo vale para um front end que não tem a mínima idéia de como funciona uma aplicação web. 
 
-Enteder os processos que levam o "/api/user" a entregar as informaçÕes do usuário num JSON perfeito é essencial para evoluir na sua carreira.
+Enteder os processos que levam o "/api/user" a entregar as informações do usuário num JSON perfeito é essencial para evoluir na sua carreira.
 
 Assim como entender como as informações do site são armazenadas, como o servidor gerencia o cache das páginas, como o request do seu browser trás o seu site para o usuário ou como o google ranqueia e indexa o seu site.
 
@@ -119,6 +119,8 @@ Git é o preferido em boa parte das empresas. Normalmente é usado em conjunto c
 Existem empresas que utilizam SVN e pouquíssimas fogem desses dois.
 
 Se dominar bem o Git já está de bom tamanho.
+
+**Adendo**. O [Breno Calazans](https://github.com/brenoc) recomendou a leitura do [Semantic Versioning](http://semver.org/). Excelente leitura sobre como organizar as versões do seu código.
 
 ### Dicas rápidas
 
