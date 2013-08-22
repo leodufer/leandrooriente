@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "O que faz um desenvolvedor Front End"
+title:  "Como me tornar um Desenvolvedor Front End"
 tags: general "front end' curriculo
 ---
+
+![Developer](/media/developer.jpg)
 
 ## Currículo de um desenvolvedor front end
 
