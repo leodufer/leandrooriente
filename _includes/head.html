@@ -1,15 +1,20 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title> 
+        <title>{{ page.title }}</title>
+        <meta name="description" content="{{ page.description }}" />
         <meta name="viewport" content="width=device-width">
 
         <meta property="og:title" content="{{page.title}}"/>
         <meta property="og:site_name" content="{{site.name}}"/>
         <meta property="og:url" content="{{site.production_url }}{{page.url}}"/>
+        {% if page.image_thumb %}
+        <meta property="og:image" content="{{site.production_url }}{{page.image_thumb}}"/>
+        {% else %}
         <meta property="og:image" content="{{site.production_url }}/images/profile-big.jpg"/>
+        {% endif %}
         <meta property="og:type" content="blog"/>
-        <meta property="og:description" content=""/>
+        <meta property="og:description" content="{{ page.description }}"/>
 
         <link href='/favicon.ico' rel='shortcut icon'/>
 

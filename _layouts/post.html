@@ -22,9 +22,6 @@ type: post
 		<div class="post-content">
 				{{ content }}
 		</div> <!-- post-content --> 
-		<div class="share-post">
-			{% include share-provider.html %}
-		</div>
 	</div><!--right-main-col-->
 	<div class="left-sidebar-col">
 		<div class="post-author">
@@ -32,8 +29,13 @@ type: post
 			<div class="author-details">
 				<a class="post-author-title" href="{{site.author.googleplus}}">{{site.author.name}}</a>
 				<p class="post-author-description">Desenvolvedor Front End, fotógrafo amador e consultor da vida.</p>
+
+				<div class="share-post">
+					{% include share-provider.html %}
+				</div>
 			</div>
 		</div><!--post-author-->
 	</div><!--left-sidebar-col-->
 </div><!-- post-item -->
+<div class="cf"></div>
 {% include comments.html %}

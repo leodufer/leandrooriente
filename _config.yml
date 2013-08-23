@@ -3,6 +3,7 @@ markdown: redcarpet
 pygments: true
 permalink: /:title
 paginate: 5
+port: 80
 
 title : Leandro Oriente
 tagline: Desenvolvedor Front End
