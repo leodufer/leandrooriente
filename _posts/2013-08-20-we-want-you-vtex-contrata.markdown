@@ -3,7 +3,7 @@ layout: post
 title:  "We want you. Vtex Contrata"
 description: "Pessoal, como costumo comentar e postar com frequencia. Estamos contratando."
 tags: general
-image_thumb: "/media/we-want-you.jpg"
+image_thumb: "/media/we-want-you-thumb.jpg"
 ---
 
 ![We want you](/media/we-want-you.jpg)

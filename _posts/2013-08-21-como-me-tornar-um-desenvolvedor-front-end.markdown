@@ -3,7 +3,7 @@ layout: post
 title:  "Como me tornar um Desenvolvedor Front End"
 description: "Minha visão de obrigações e diferenciais de desenvolvedores front end e algumas pequenas dicas a respeito."
 tags: general "front end' curriculo
-image_thumb: "/media/developer.jpg"
+image_thumb: "/media/developer-thumb.jpg"
 ---
 
 ![Developer](/media/developer.jpg)

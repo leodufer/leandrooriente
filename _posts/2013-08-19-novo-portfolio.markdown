@@ -3,7 +3,7 @@ layout: post
 title:  "Novo portfólio. Adeus Wordpress e obrigado pelos peixes"
 description: "Sempre que estou atolado de coisas para fazer e sem tempo para dormir refaço o portfólio para me lembrar que poderia ser pior."
 tags: general jekyll wordpress "digital ocean"
-image_thumb: "/media/thanks-all-the-fish.jpg"
+image_thumb: "/media/thanks-all-the-fish-thumb.jpg"
 ---
 
 ![Obrigado pelos peixes](/media/thanks-all-the-fish.jpg)

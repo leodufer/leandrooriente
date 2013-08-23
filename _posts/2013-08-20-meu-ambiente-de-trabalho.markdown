@@ -3,7 +3,7 @@ layout: post
 title:  "Meu ambiente de trabalho"
 description: "Seguindo a onda do Loop Infinito, resolvi fazer um post com o meu ambiente de trabalho. Tanto para desenvolvimento quanto para fotografia."
 tags: setup
-image_thumb: "/media/workstation.jpg"
+image_thumb: "/media/workstation-thumb.jpg"
 ---
 
 ![Workstation](/media/workstation.jpg)

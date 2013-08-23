@@ -3,7 +3,7 @@ layout: post
 title:  "Faculdade de Informática. Fazer ou não fazer?"
 description: "Quero mostrar minha experiência atual com o mercado de trabalho e com o mundo acadêmico para depois apresentar as conclusões que tirei."
 tags: faculdade
-image_thumb: "/media/classroom.jpg"
+image_thumb: "/media/classroom-thumb.jpg"
 ---
 
 ![Classroom](/media/classroom.jpg)
