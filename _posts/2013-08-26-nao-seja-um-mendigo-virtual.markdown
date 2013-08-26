@@ -70,7 +70,17 @@ No final do conteúdo oferecido, seja ele qual for, deixe as opções para que s
 
 Alguns blogs utilizam uma barra lateral que fica fixa o que não é uma técnica ruim desde que não atrapalhe a visualização do conteúdo.
 
+## Concluindo
+
+Caso não tenha te convencido até agora de que ser um mendigo virtual não da resultados, faça o teste.
+
+Peça para que alguém busque por determinado assunto para obter uma informação. <br />
+Se certifique de que seja um termo em que seu site vai aparecer em posições razoáveis e veja a taxa de conversão do seu modal invasivo.
+
+Além disso observe a reação das pessoas com essa experiência.
+
+Eu aposto 10 likes que vai ser desastroso.
 
 ![Cale a boca e tome meu like](/media/shut-uo-and-take-my-like.jpg)
 
-Não esqueça dos [10%](http://www.facebook.com/sharer.php?http%3A%2F%2Fleandrooriente.com%2Fnao-seja-um-mendigo-virtual%2F).
+Não esqueça dos meus [10%](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fleandrooriente.com%2Fnao-seja-um-mendigo-virtual%2F).
