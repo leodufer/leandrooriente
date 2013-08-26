@@ -494,6 +494,19 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   }
 }
 
+// 404
+.notfound {
+  position: relative;
+}
+.notfound h1 {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  right: 0;
+  font-size: 200px;
+  color: rgba(255,255,255, .6);
+}
+
 @media (max-width : 768px) {
   .site {
     margin: 0;
