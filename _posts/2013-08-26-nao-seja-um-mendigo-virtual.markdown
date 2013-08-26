@@ -71,9 +71,6 @@ No final do conteúdo oferecido, seja ele qual for, deixe as opções para que s
 Alguns blogs utilizam uma barra lateral que fica fixa o que não é uma técnica ruim desde que não atrapalhe a visualização do conteúdo.
 
 
-
-## Demonstre sua gratidão
-
 ![Cale a boca e tome meu like](/media/shut-uo-and-take-my-like.jpg)
 
 Não esqueça dos [10%](http://www.facebook.com/sharer.php?http%3A%2F%2Fleandrooriente.com%2Fnao-seja-um-mendigo-virtual%2F).
