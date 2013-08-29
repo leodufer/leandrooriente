@@ -17,6 +17,9 @@ body {
 	font-family: "Ropa Sans", sans-serif;
 	padding: 0;
 	margin: 0;
+	zoom: 180%;
+	overflow: hidden;
+	cursor: none;
 }
 .container {
 	width: 1015px;
@@ -49,31 +52,33 @@ ul {
 }
 .application {
 	width: 1015px;
-	margin: 50px auto;
+	margin: 50px auto 0;
 	position: relative;
 }
 #logo-color-bikes-app {
 	position: absolute;
 	top: -30px;
-	right: 33px;
+	left: 33px;
+	zoom: 75%;
 }
 
-#visualizador {
-	float: left;
-	margin-right: 14px;
+#visualizador {	
+	margin: 40px auto 0;
 	width: 722px;
 	opacity: 0;
 }
 .btn-visualizador-conf {
 	position: absolute;
-	top: 10px;
-	left: 0;
+	top: 150px;
+	box-shadow: 2px 2px 5px #ccc;
+	zoom: 75%;
+	left: 33px;
 	z-index: 9999;
 	background: #fcfcfc;
 	padding: 0;
 	border: 1px solid #ccc;
 	display: inline-block;
-	cursor: pointer;
+	
 }
 #visualizador-conf {
 	margin: 0;
@@ -91,7 +96,7 @@ ul {
 	padding: 4px;
 	border-radius: 4px;
 	font-size: 12px;
-	cursor: pointer;
+	
 	line-height: 120%;
 	-webkit-box-sizing: content-box;
 	   -moz-box-sizing: content-box;
@@ -102,7 +107,11 @@ ul {
 }
 
 #configurador {
-	float: left;
+	zoom: 75%;
+	box-shadow: 2px 2px 5px #ccc;
+	position: absolute;
+	top: -40px;
+	right: 0;
 	margin-left: 17px;
 	padding: 16px;
 	background-color: #fff;
@@ -111,7 +120,6 @@ ul {
 	width: 186px;
 	font-size: 1.2em;
 	letter-spacing: -.09em;
-	position: relative;
 }
 #configurador span {
 	display: block;
@@ -132,14 +140,14 @@ ul {
 #configurador label {
 	display: block;
 	float: left;
-	cursor: pointer;
+	
 	padding: 10px 0;
 	margin-right: 10px;
 }
 
 .buy-btn {
 	width: 100%;
-	cursor: pointer;
+	
 	box-sizing: border-box;
 	padding: 10px 0;
 	text-align: center;
@@ -168,6 +176,7 @@ ul {
 	z-index: 99999;
 }
 .modal {
+	zoom: 75%;
 	width: 500px;
 	padding: 20px;
 	box-sizing: border-box;
@@ -215,7 +224,7 @@ ul {
 }
 
 .btn-close-modal {
-	cursor: pointer;
+	
 	box-sizing: border-box;
 	padding: 10px;
 	display: block;
@@ -237,8 +246,13 @@ ul {
 	text-align: center;
 	top: 0;
 	z-index: 99;
-	cursor: pointer;
+	
 }
+
+.tag-active {
+	-webkit-filter: invert(100%);  
+}
+
 .tag-cabofreio, .tag-canote {
 	background: url(configurador/tip-color-w.png) no-repeat center center;
 }
@@ -293,10 +307,20 @@ ul {
 	right: 366px;
 }
 
+.tag-banco .pallet, .tag-canote .pallet {
+	top: -42px;
+	left: -133px;
+}
+
+.tag-cabofreio .pallet, .tag-punho .pallet {
+	top: -47px;
+	left: 48px;
+}
+
 .pallet {
+	-webkit-filter: invert(100%);  
 	display:none;
 	opacity: 0;
-	cursor: default;
 	background: url(configurador/bg_color.png) no-repeat scroll center center #FFF;
 	border: 8px solid #E7E7E7;
 	border-radius: 100px;
@@ -320,7 +344,6 @@ ul {
 	width:28px;
 	border:1px solid #D7D7D7;
 	border-radius:28px 28px 28px 28px;
-	cursor:pointer;
 }
 .pallet-color0 {
 	top: 45px;
@@ -375,7 +398,7 @@ ul {
 
 .partSelector {
 	margin: 10px 0px;
-	cursor: pointer;
+	
 	display: block;
 }
 .partSelector span {
@@ -671,7 +694,7 @@ svg\:svg {
 	border: 1px solid #ccc;
 	text-decoration: none;
 	display: inline-block;
-	cursor: pointer;
+	
 	color: #333;
 	margin-right: 15px;
 	position: relative;
@@ -691,12 +714,12 @@ svg\:svg {
 }
 
 #combo-selector {
-	display: none;
+	display: block;
 }
 
 #combo-selector li {
 	position: relative;
-	cursor: pointer;
+	
 }
 #combo-selector li:before {
 	position: absolute;

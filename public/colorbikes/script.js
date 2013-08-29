@@ -173,6 +173,8 @@ $(document).ready(function() {
   });
 
   $body.on('click', '.toggle-options-call', function (e) {
+  	$('.tag').removeClass('tag-active');
+  	$(this).addClass('tag-active');
     showPallete($(this).data('part'));
     e.stopPropagation();
   });
