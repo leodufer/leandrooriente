@@ -149,6 +149,14 @@ Wordpress? [wp.tutsplus.com](http://wp.tutsplus.com/)
 
 - [Web Designer Wall](http://webdesignerwall.com/)
 
+- [A List Apart](http://alistapart.com/)
+
+- [CSS Tricks](http://css-tricks.com/)
+ 
+- [DailyJS](http://dailyjs.com/)
+
+- [HTML5 ROCKS](http://www.html5rocks.com/pt/)
+
 ## Site awards
 
 - [Awwwards](http://www.awwwards.com/)
@@ -185,20 +193,37 @@ YSlow é uma extensão usada no browser que aponta os principais erros de perfor
 
 Projeto semelhante ao YSlow só que exclusivo do chrome.
 
+## Weekly
+
+Novidades semanais direto no seu email.
+
+- [HTML5 Weekly](http://html5weekly.com/)
+- [Javascript Weekly](http://javascriptweekly.com/)
+- [CSS Weekly](http://css-weekly.com/)
+- [BrazilJS Weekly](http://braziljs.org/)
 
 ## Twitter
 
-- [@paul_irish](https://twitter.com/paul_irish)
-- [@jeresig](https://twitter.com/jeresig)
-- [@smashingmag](https://twitter.com/smashingmag)
-- [@elijahmanor](https://twitter.com/elijahmanor)
-- [@addyosmani](https://twitter.com/addyosmani)
-- [@zenorocha](https://twitter.com/zenorocha)
-- [@shiota](https://twitter.com/shiota)
-- [@diegoeis](https://twitter.com/diegoeis)
-- [@davitferreira](https://twitter.com/davitferreira)
-- [@davidsonFellipe](https://twitter.com/davidsonFellipe)
-
+- @paul_irish
+- @jeresig
+- @smashingmag
+- @elijahmanor
+- @addyosmani
+- @zenorocha
+- @shiota
+- @diegoeis
+- @davitferreira
+- @davidsonFellipe
+- @maujor
+- @danielfilho
+- @bernarddeluna
+- @osuissa
+- @caio_gondim
+- @almirfilho
+- @pinceladasdaweb
+- @millermedeiros
+- @jaydson
+- @elvisdetona
 
 ## Contribua
 
