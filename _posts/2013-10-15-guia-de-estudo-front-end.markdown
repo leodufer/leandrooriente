@@ -45,7 +45,7 @@ Vale a pena dar uma olhada nos outros livros também.
 
 Em minha humilde opinião, a melhor editora da área. Todos os livros são fantásticos e é impressionante a gama de assuntos que eles abordam. Os livros geralmente são em inglês, porém já existem alguns em português.
 
-Seguem dois que considero essenciais: [Guerreiro SEO](http://www.novateceditora.com.br/livros/guerreiroseo/) e [Javascript - O Guia Definitivo](http://www.submarino.com.br/produto/112167569/livro-javascript-o-guia-definitivo), porém pouco comovente.
+Seguem dois que considero essenciais: [Guerreiro SEO](http://www.novateceditora.com.br/livros/guerreiroseo/) e [Javascript - O Guia Definitivo](http://www.submarino.com.br/produto/112167569/livro-javascript-o-guia-definitivo), porém pouco comoventes.
 
 Se quiser aprender bem algo, pesquise por "algo" + o'reilly no google e compre o livro.
 
@@ -55,7 +55,7 @@ Se quiser aprender bem algo, pesquise por "algo" + o'reilly no google e compre o
 
 A galera da MDN é extremamente didática e mantém uma documentação abrangente com exemplos de códigos e imagens.
 
-- W3Fools
+- [W3Fools](http://www.w3fools.com/)
 
 Uma péssima fonte e que ocupa as primeiras posições do google com certa frequência é o W3Schools (não vou desperdiçar meu juice linkando eles).
 Podem servir de quebra galho as vezes mas não são muito confiáveis e não tem vínculo algum com a consagrada [W3C](http://www.w3.org/).
@@ -205,3 +205,14 @@ Projeto semelhante ao YSlow só que exclusivo do chrome.
 O guia está incompleto, porém acredito que já seja um MVP razoável para publicar. Vou fazer algumas atualizações essa semana e gostaria muito de algumas contribuições.
 
 Tenho tido contato com diversas pessoas com dúvidas sobre fontes seguras de estudo e nada melhor que um guia bem detalhado.
+
+
+## Pesquisa sobre o desenvolvimento front end no Brasil. Participe!
+
+Pessoal o Breno Calazans (desenvolvedor na Vtex e aluno na PUC-Rio) está fazendo uma pesquisa bem legal sobre os desenvolvedores front-end brasileiros.
+
+A pesquisa é bem curtinha e faz uma mapeamento amplo da área.
+Os dados obviamente vão ser públicos e expostos no final do mês. Provalvemente irei expor aqui no site o resultado também.
+
+Segue o link para a pesquisa: [breno.typeform.com/to/DCy9FS](https://breno.typeform.com/to/DCy9FS).
+Não deixem de colaborar.
