@@ -115,6 +115,10 @@ Leitura super recomendada.
 
 Blog tocado pelo Caio Gondim e Almir Filho, ambos da Globo.com. Conteúdo de primeira e geralmente único no Brasil.
 
+- [Front End Brasil](http://www.frontendbrasil.com.br/)
+
+- [Front End para leigos](http://frontendparaleigos.cc/)
+
 - [Pinceladas da Web](http://www.pinceladasdaweb.com.br/blog/)
 
 Blog tocado pelo Pedro Rogério tem muito conteúdo bacana também.
@@ -226,6 +230,12 @@ Novidades semanais direto no seu email.
 - @millermedeiros
 - @jaydson
 - @elvisdetona
+
+## Grupos no Facebook
+
+- [Desenvolvimento Web](https://www.facebook.com/groups/desenvolvimentoweb)
+- [Web Design Brasil](https://www.facebook.com/groups/WebDesignBR/)
+- [FrontEnd Brasil](https://www.facebook.com/groups/frontendbrasil/)
 
 ## Contribua
 
