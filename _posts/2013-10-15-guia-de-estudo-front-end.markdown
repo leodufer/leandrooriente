@@ -185,6 +185,10 @@ Em tese, todas deveriam ser excelentes formas de aprendizado, mas algumas são b
 
 [jQuery](http://api.jquery.com/), [PHP](http://php.net/docs.php), [Git](http://git-scm.com/documentation) e [Wordpress](http://codex.wordpress.org/) são bons exemplos de documentações bem organizadas.
 
+### [DevDocs](http://devdocs.io/)
+
+Projeto criado pelo [Thibaut](http://thibaut.me/) que mantém dezenas de documentações diversas num único ambiente.
+
 ## Performance
 
 - [Browser Diet](http://browserdiet.com/pt/)
