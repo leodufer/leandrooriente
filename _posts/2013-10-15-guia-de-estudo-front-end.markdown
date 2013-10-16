@@ -157,6 +157,8 @@ Wordpress? [wp.tutsplus.com](http://wp.tutsplus.com/)
 
 - [HTML5 ROCKS](http://www.html5rocks.com/pt/)
 
+- [Codrops](http://tympanus.net/codrops/)
+
 ## Site awards
 
 - [Awwwards](http://www.awwwards.com/)
