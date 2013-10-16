@@ -189,6 +189,10 @@ Em tese, todas deveriam ser excelentes formas de aprendizado, mas algumas são b
 
 Projeto criado pelo [Thibaut](http://thibaut.me/) que mantém dezenas de documentações diversas num único ambiente.
 
+- [OverAPI.com](http://overapi.com/)
+
+Bem parecido com o DevDocs, porém não incorpora de fato a documentação.
+
 ## Performance
 
 - [Browser Diet](http://browserdiet.com/pt/)
