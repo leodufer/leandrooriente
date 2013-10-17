@@ -49,6 +49,8 @@ Seguem dois que considero essenciais: [Guerreiro SEO](http://www.novateceditora.
 
 Se quiser aprender bem algo, pesquise por "algo" + o'reilly no google e compre o livro.
 
+- [Lista de livros gratuitos da reSRC](http://resrc.io/list/10/list-of-free-programming-books/)
+
 ## Organizações
 
 - [Mozilla Developer Network - MDN](https://developer.mozilla.org/pt-BR/)
@@ -238,6 +240,8 @@ Novidades semanais direto no seu email.
 - @millermedeiros
 - @jaydson
 - @elvisdetona
+- @guiiipontes
+- @jcemer
 
 ## Grupos no Facebook
 
