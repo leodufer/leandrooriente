@@ -49,7 +49,7 @@ Seguem dois que considero essenciais: [Guerreiro SEO](http://www.novateceditora.
 
 Se quiser aprender bem algo, pesquise por "algo" + o'reilly no google e compre o livro.
 
-- [Lista de livros gratuitos da reSRC](http://resrc.io/list/10/list-of-free-programming-books/)
+- [Lista de livros gratuitos postada na reSRC](http://resrc.io/list/10/list-of-free-programming-books/)
 
 ## Organizações
 
