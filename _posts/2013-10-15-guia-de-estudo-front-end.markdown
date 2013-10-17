@@ -121,8 +121,6 @@ Blog tocado pelo Caio Gondim e Almir Filho, ambos da Globo.com. Conteúdo de pri
 
 - [Front End para leigos](http://frontendparaleigos.cc/)
 
-- [//UX.BLOG](http://www.uxdesign.blog.br)
-
 - [Pinceladas da Web](http://www.pinceladasdaweb.com.br/blog/)
 
 Blog tocado pelo Pedro Rogério tem muito conteúdo bacana também.
@@ -223,6 +221,13 @@ Novidades semanais direto no seu email.
 ## Twitter
 
 - @paul_irish
+- @chriscoyier
+- @codepo8
+- @davidwalshblog
+- @brad_frost
+- @cowboy
+- @leaverou
+- @souders
 - @jeresig
 - @smashingmag
 - @elijahmanor
@@ -244,7 +249,6 @@ Novidades semanais direto no seu email.
 - @elvisdetona
 - @guiiipontes
 - @jcemer
-- @eduagni
 
 ## Grupos no Facebook
 
