@@ -41,7 +41,7 @@ Boa parte do conteúdo dele está no [site do Maujor](http://www.maujor.com/inde
 
 Vale a pena dar uma olhada nos outros livros também.
 
-- [O'Reilly](http://www.oreilly.com/?)
+- [O'Reilly](http://www.oreilly.com/)
 
 Em minha humilde opinião, a melhor editora da área. Todos os livros são fantásticos e é impressionante a gama de assuntos que eles abordam. Os livros geralmente são em inglês, porém já existem alguns em português.
 
