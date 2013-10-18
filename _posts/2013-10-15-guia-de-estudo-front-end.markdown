@@ -94,6 +94,12 @@ Outra instituição muito sólida no RJ. O conteúdo é bem orientado ao mercado
 
 - [Code School](https://www.codeschool.com/)
 
+- [Dash](https://dash.generalassemb.ly/)
+
+- [Code Squad](http://code-squad.com/) *BR
+
+- [Codetag](http://codetag.me/)
+
 ## Portais/blogs nacionais
 
 - [Tableless](http://tableless.com.br)
@@ -103,7 +109,7 @@ Tableless é um portal que me acompanhou desde o início da minha carreira. O co
 - [iMasters](http://imasters.com.br/)
 
 
-- [Agência Mestre](http://www.agenciamestre.com/blog) ex MestreSEO.
+- [Agência Mestre](http://www.agenciamestre.com/blog) antiga MestreSEO.
 
 Melhor referência de SEO no Brasil. O conteúdo free é excelente, porém com um investimento razoável você tem acesso ao Premium, porém se você não pretende seguir carreira na área não é tão necessário assim.
 
@@ -128,6 +134,8 @@ Blog tocado pelo Pedro Rogério tem muito conteúdo bacana também.
 - [Arquitetura de Informação](http://arquiteturadeinformacao.com/)
 
 Blog muito bom sobre UX. Não conheço nenhum outro nacional que toque tão bem no assunto.
+
+- [//UX Blog](http://www.uxdesign.blog.br)
 
 - [DevMedia](http://www.devmedia.com.br/)
 
@@ -249,12 +257,25 @@ Novidades semanais direto no seu email.
 - @elvisdetona
 - @guiiipontes
 - @jcemer
+- @eduagni
 
 ## Grupos no Facebook
 
 - [Desenvolvimento Web](https://www.facebook.com/groups/desenvolvimentoweb)
 - [Web Design Brasil](https://www.facebook.com/groups/WebDesignBR/)
 - [FrontEnd Brasil](https://www.facebook.com/groups/frontendbrasil/)
+
+## Outros guias 
+
+- [Coffee and Code](https://github.com/CoffeeAndCodeProject/learning/tree/master/online)
+
+Por [Vitor Britto](https://github.com/vitorbritto)
+
+- [How to keep up to date](http://uptodate.frontendrescue.org/)
+
+- [How to keep up to date Brazuca](http://oswaldoacauan.github.io/keep-up-to-date-brazuca/)
+
+Versão brasileira desenvolvida por [Oswaldo Cauan](https://twitter.com/oswaldoacauan)
 
 ## Contribua
 
