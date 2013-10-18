@@ -26,7 +26,7 @@ O foco do post é atender a galera iniciante e encurtar alguns caminhos, porém 
 
 ## Livros
 
-- [Maujor](http://www.maujor.com/index.php?)
+- [Maujor](http://www.maujor.com/index.php)
 
 O cara é simplesmente a maior referência nacional quando se trata de HTML e CSS.
 
