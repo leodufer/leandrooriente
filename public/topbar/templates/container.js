@@ -1,0 +1,1 @@
+vtex.topbar.templates.container = $.parseHTML("<section class=\"topbar-vtex\" id=\"topbar-vtex\">  <a href=\"#\" class=\"topbar-logo\">Vtex</a>  <div class=\"topbar-template-container\" id=\"topbar-template-container\"></div>  <div class=\"clear\"></div></section>");

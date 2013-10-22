@@ -66,18 +66,22 @@
 }
 .topbar-nav {
   position: relative;
+  cursor: pointer;
   float: left;
   height: 18px;
-  padding: 14px 20px;
+  padding: 14px 12px 14px 20px;
 }
 .topbar-nav:hover {
+  background: #002E4A;
+}
+.topbar-nav.topbar-nav-active {
   background: #fff;
   color: #003b5e;
 }
-.topbar-app-nav:hover .topbar-dropdown-apps {
+.topbar-app-nav.topbar-nav-active .topbar-dropdown-apps {
   display: block;
 }
-.topbar-acc-nav:hover .topbar-dropdown-acc {
+.topbar-acc-nav.topbar-nav-active .topbar-dropdown-acc {
   display: block;
 }
 .topbar-title {
@@ -107,7 +111,7 @@
   display: none;
 }
 .topbar-app-list {
-  min-width: 600px;
+  min-width: 650px;
   list-style: none;
   display: block;
   overflow: hidden;
@@ -115,8 +119,8 @@
 }
 .topbar-app-list li {
   float: left;
-  width: 30%;
-  margin-right: 3%;
+  width: 31%;
+  margin-right: 2%;
   margin-bottom: 40px;
 }
 .topbar-app-list li a {
@@ -127,17 +131,17 @@
   background: url(../images/app-logo.png);
   width: 59px;
   height: 52px;
-  display: inline-block;
+  float: left;
 }
 .topbar-app-description {
-  display: inline-block;
-  width: 110px;
+  float: left;
+  width: 135px;
   margin-left: 5px;
 }
 .topbar-app-description h3 {
   font-weight: normal;
   color: #333;
-  font-size: 18px;
+  font-size: 16px;
 }
 .topbar-app-description p {
   color: #999;

@@ -1,0 +1,91 @@
+{
+  "profile" : {
+    "name" : "Leandro Adriano Oriente",
+    "email" : "leandro.oriente@vtex.com.br",
+    "picture" : "images/profile-pic.jpg"
+  },
+  "appList" : [
+    {
+      "name" : "Logistics",
+      "id" : "logistics",
+      "url" : "http://www.google.com",
+      "description" : "I am the one who knocks"
+    },
+    {
+      "name" : "License Manager",
+      "id" : "license-manager",
+      "url" : "http://www.google.com",
+      "description" : "I am the one who knocks"
+    },
+    {
+      "name" : "Payment Gateway",
+      "id" : "payment-gateway",
+      "url" : "http://www.google.com",
+      "description" : "I am the one who knocks"
+    },
+    {
+      "name" : "Template Render",
+      "id" : "template-render",
+      "url" : "http://www.google.com",
+      "description" : "I am the one who knocks"
+    },
+    {
+      "name" : "Rates & Benefits",
+      "id" : "rates-benefits",
+      "url" : "http://www.google.com",
+      "description" : "I am the one who knocks"
+    },
+    {
+      "name" : "Middleware",
+      "id" : "middleware",
+      "url" : "http://www.google.com",
+      "description" : "I am the one who knocks"
+    }
+  ],
+  "accList" : [
+    {
+      "name" : "Petlove",
+      "sites" : [
+        {
+          "name" : "PetLove",
+          "url" : "http://www.google.com"
+        },
+        {
+          "name" : "Meu Amigo Pet",
+          "url" : "http://www.google.com"
+        }
+      ]
+    },
+    {
+      "name" : "Walmart",
+      "sites" : [
+        {
+          "name" : "Walmart",
+          "url" : "http://www.google.com"
+        },
+        {
+          "name" : "Saraiva Walmart",
+          "url" : "http://www.google.com"
+        }
+      ]
+    },
+    {
+      "name" : "Connect Parts",
+      "sites" : [
+        {
+          "name" : "Connect Parts",
+          "url" : "http://www.google.com"
+        }
+      ]
+    },
+    {
+      "name" : "Personal",
+      "sites" : [
+        {
+          "name" : "Personal",
+          "url" : "http://www.google.com"
+        }
+      ]
+    }
+  ]
+}
