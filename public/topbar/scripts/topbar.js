@@ -3,8 +3,8 @@ window.vtex = window.vtex || {};
 window.vtex.topbar = function() {
 
   var _self = this,
-      _resources = 'http://leandrooriente.com/',
-      _endpoint = 'http://leandrooriente.com/',
+      _resources = 'http://leandrooriente.com/public/topbar/',
+      _endpoint = 'http://leandrooriente.com/public/topbar/',
       _authCookie = "VtexIdclientAutCookie";
 
   var $templateContainer;
