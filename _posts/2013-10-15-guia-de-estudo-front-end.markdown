@@ -24,7 +24,9 @@ Assim como no post anterior, vou usar minhas experiências como base, afinal é 
 
 O foco do post é atender a galera iniciante e encurtar alguns caminhos, porém se você é mais cascudo e quiser colaborar, fique a vontade.
 
-## Livros
+## Como estudar para me tornar um Desenvolvedor Front End
+
+### Livros
 
 - [Maujor](http://www.maujor.com/index.php)
 
@@ -51,7 +53,7 @@ Se quiser aprender bem algo, pesquise por "algo" + o'reilly no google e compre o
 
 - [Lista de livros gratuitos postada na reSRC](http://resrc.io/list/10/list-of-free-programming-books/)
 
-## Organizações
+### Organizações
 
 - [Mozilla Developer Network - MDN](https://developer.mozilla.org/pt-BR/)
 
@@ -66,7 +68,7 @@ Podem servir de quebra galho as vezes mas não são muito confiáveis e não tem
 
 Aliás, a W3C obviamente é uma fonte totalmente segura de conhecimento já que ela regula os padrões web.
 
-## Bíblia
+### Bíblia
 
 - [Stack Overflow](http://stackoverflow.com/)
 
@@ -76,7 +78,7 @@ Se você esbarrou em um erro e não conseguiu sair dali de forma alguma, certame
 
 Obs: Dica de ouro. Sempre pesquise em inglês.
 
-## Cursos
+### Cursos
 
 Vou citar algumas referências no RJ e cursos onlines. Infelizmente não tenho conhecimento das demais regiões do Brasil.
 
@@ -88,7 +90,7 @@ Provavelmente a melhor instituição do RJ. Apesar do foco serem coisas relacion
 
 Outra instituição muito sólida no RJ. O conteúdo é bem orientado ao mercado, porém tive problemas com a parte administrativa da empresa e já ouvi outros relatos de pessoas que também tiveram.
 
-## Cursos online
+### Cursos online
 
 - [Code Academy](http://www.codecademy.com/)
 
@@ -100,7 +102,7 @@ Outra instituição muito sólida no RJ. O conteúdo é bem orientado ao mercado
 
 - [Codetag](http://codetag.me/)
 
-## Portais/blogs nacionais
+### Portais/blogs nacionais
 
 - [Tableless](http://tableless.com.br)
 
@@ -146,7 +148,7 @@ Muito conteúdo bacana gratuito. Além disso oferecem um [plano bem em conta](ht
 O conteúdo é razoável e já foi melhor, porém usei muito no meu início de carreira. 
 Não posso deixar de citar aqui, principalmente pelas vídeo aulas do Felipe Cardozo que foram essenciais nos meus estudos.
 
-## Portais/blogs gringos
+### Portais/blogs gringos
 
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 
@@ -173,7 +175,7 @@ Wordpress? [wp.tutsplus.com](http://wp.tutsplus.com/)
 
 - [Codrops](http://tympanus.net/codrops/)
 
-## Site awards
+### Site awards
 
 - [Awwwards](http://www.awwwards.com/)
 
@@ -187,7 +189,7 @@ Mesma pegada do Awwwards.
 
 Observação desnecessária: O FWA era desenvolvido em Flash porém ao realizar a migração para HTML/CSS mantiveram um comportamento muito semelhante a versão original. Algumas pessoas demoraram a notar a diferença.
 
-## Documentações
+### Documentações
 
 Sempre que for estudar alguma linguagem/framework/library, procure acompanhar a documentação.
 
@@ -203,7 +205,7 @@ Projeto criado pelo [Thibaut](http://thibaut.me/) que mantém dezenas de documen
 
 Bem parecido com o DevDocs, porém não incorpora de fato a documentação.
 
-## Performance
+### Performance
 
 - [Browser Diet](http://browserdiet.com/pt/)
 
@@ -217,7 +219,7 @@ YSlow é uma extensão usada no browser que aponta os principais erros de perfor
 
 Projeto semelhante ao YSlow só que exclusivo do chrome.
 
-## Weekly
+### Weekly
 
 Novidades semanais direto no seu email.
 
@@ -226,7 +228,7 @@ Novidades semanais direto no seu email.
 - [CSS Weekly](http://css-weekly.com/)
 - [BrazilJS Weekly](http://braziljs.org/)
 
-## Twitter
+### Twitter
 
 - @paul_irish
 - @chriscoyier
@@ -259,13 +261,13 @@ Novidades semanais direto no seu email.
 - @jcemer
 - @eduagni
 
-## Grupos no Facebook
+### Grupos no Facebook
 
 - [Desenvolvimento Web](https://www.facebook.com/groups/desenvolvimentoweb)
 - [Web Design Brasil](https://www.facebook.com/groups/WebDesignBR/)
 - [FrontEnd Brasil](https://www.facebook.com/groups/frontendbrasil/)
 
-## Outros guias 
+### Outros guias 
 
 - [Coffee and Code](https://github.com/CoffeeAndCodeProject/learning/tree/master/online)
 
@@ -277,14 +279,14 @@ Por [Vitor Britto](https://github.com/vitorbritto)
 
 Versão brasileira desenvolvida por [Oswaldo Cauan](https://twitter.com/oswaldoacauan)
 
-## Contribua
+### Contribua
 
 O guia está incompleto, porém acredito que já seja um MVP razoável para publicar. Vou fazer algumas atualizações essa semana e gostaria muito de algumas contribuições.
 
 Tenho tido contato com diversas pessoas com dúvidas sobre fontes seguras de estudo e nada melhor que um guia bem detalhado.
 
 
-## Pesquisa sobre o desenvolvimento front end no Brasil. Participe!
+### Pesquisa sobre o desenvolvimento front end no Brasil. Participe!
 
 Pessoal o Breno Calazans (desenvolvedor na Vtex e aluno na PUC-Rio) está fazendo uma pesquisa bem legal sobre os desenvolvedores front-end brasileiros.
 
