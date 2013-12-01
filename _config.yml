@@ -37,7 +37,7 @@ assets:
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/images
-  js_compressor:  yui
+  js_compressor: uglifier
   css_compressor: sass
   cache: true
   gzip: [ text/css, application/javascript ]
