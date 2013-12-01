@@ -18,7 +18,7 @@ Depois disso recebi muitos feedbacks questionando sobre formas de estudar os con
 
 ## O comovente guia de estudo para desenvolvedores front end do Oriente
 
-Sim, isso foi um plágio do título do [livro do Why sobre Ruby](http://why.carlosbrando.com/), o guia não tem nada de comovente.
+Sim, isso foi um plágio do título do [livro do Why sobre Ruby](http://why.carlosbrando.com/), o guia não tem nada de comovente!
 
 Assim como no post anterior, vou usar minhas experiências como base, afinal é o quase comovente guia do Oriente, porém ficarei muito feliz em receber sugestões de materiais complementares nos comentários e obviamente irei adicionar no post os mais relevantes.
 
