@@ -426,6 +426,11 @@ a:hover   { color: #2980b9; text-decoration: underline; }
   margin: 25px 0 0;
 }
 
+// Share items
+.fb-share-button, .twitter-share-button, .g-plus-share-button {
+  width: 95px !important;
+}
+
 .post-comments {
   padding: 55px 100px;
   background: #f3f3f3;
