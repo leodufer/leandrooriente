@@ -48,11 +48,11 @@ O custo dela começa a comer o lucro do que já foi vendido e isso é um problem
 
 Complicou? Calma, vamos ver um exemplo que vai clarear (sem racismo) as coisas.
 
-A fictícia loja EasyBuy comprou mil unidades da TV ShangSung 40" 2013. <br>
+A fictícia loja EasyBuy comprou mil unidades da TV Shang Tsung 40" 2013. <br>
 Durante o terceiro trimestre de 2013 eles venderam 900 unidades e lucraram U$ 30.000,00 em cima das unidades compradas.<br />
 Porém restaram 100 unidades da TV no estoque e elas custam U$ 2.000,00 mensais para permanecer no estoque.
 
-A ShangSung por sua vez no início de setembro lançou a ShangSung 40" 2014 com acesso a internet e máquina de expresso integrada. <br>
+A Shang Tsung por sua vez no início de setembro lançou a Shang Tsung 40" 2014 com acesso a internet e máquina de expresso integrada. <br>
 Nenhum cliente tem interesse de pagar R$ 1.500,00 na 2013 sendo que a 2014 também custa isso.
 
 O que fazer com as 100 unidades restantes que estão começando a dar prejuízo?
