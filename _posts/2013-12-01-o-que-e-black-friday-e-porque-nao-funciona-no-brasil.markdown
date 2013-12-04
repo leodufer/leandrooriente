@@ -23,7 +23,7 @@ Os descontos foram bem menores e alguns camuflados por aumentos na véspera do e
 Aliás, para quem não conhece a Black Friday americana segue um vídeo que demonstra bem.
 
 <div class="video-container">
-  <iframe src="//www.youtube.com/embed/iDdqPRxTAkU?rel=0" frameborder="0" allowfullscreen></iframe>
+  <iframe src="//www.youtube.com/embed/X_UsD543W3s?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Para quem não conhece o evento original, vou explicar melhor como funciona a Black Friday americana. Vai servir de parâmetro para a explicação das falhas na brasileira posteriormente.
