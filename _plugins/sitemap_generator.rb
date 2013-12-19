@@ -146,7 +146,7 @@ module Jekyll
       last_modified_date = nil
       site.posts.each do |post|
         if !excluded?(post.name)
-          url = fill_url(site, post) + "/"
+          url = fill_url(site, post, true)
           urlset.add_element(url)
         end
 
@@ -167,7 +167,7 @@ module Jekyll
         if !excluded?(page.name)
           path = page.full_path_to_source
           if File.exists?(path)
-            url = fill_url(site, page) + "/"
+            url = fill_url(site, page, false)
             urlset.add_element(url)
           end
         end
@@ -178,10 +178,10 @@ module Jekyll
     # change frequency (optional), and priority.
     #
     # Returns url REXML::Element
-    def fill_url(site, page_or_post)
+    def fill_url(site, page_or_post, fixString)
       url = REXML::Element.new "url"
 
-      loc = fill_location(site, page_or_post)
+      loc = fill_location(site, page_or_post, fixString)
       url.add_element(loc)
 
       lastmod = fill_last_modified(site, page_or_post)
@@ -217,11 +217,15 @@ module Jekyll
     # Get URL location of page or post 
     #
     # Returns the location of the page or post
-    def fill_location(site, page_or_post)
+    def fill_location(site, page_or_post, fixString)
       loc = REXML::Element.new "loc"
       url = site.config['sitemap']['url'] if site.config['sitemap']
       url ||= site.config['url'] || MY_URL
       loc.text = page_or_post.location_on_server(url)
+
+      if fixString
+        loc.text = loc.text + '/'
+      end
 
       loc
     end
