@@ -146,7 +146,7 @@ module Jekyll
       last_modified_date = nil
       site.posts.each do |post|
         if !excluded?(post.name)
-          url = fill_url(site, post)
+          url = fill_url(site, post) + "/"
           urlset.add_element(url)
         end
 
@@ -167,7 +167,7 @@ module Jekyll
         if !excluded?(page.name)
           path = page.full_path_to_source
           if File.exists?(path)
-            url = fill_url(site, page)
+            url = fill_url(site, page) + "/"
             urlset.add_element(url)
           end
         end
