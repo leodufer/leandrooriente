@@ -1,36 +1,28 @@
 module.exports = (grunt) ->
-	pkg = grunt.file.readJSON('package.json')
+  pkg = grunt.file.readJSON('package.json')
 
-	# Project configuration.
-	grunt.initConfig
+  # Project configuration.
+  grunt.initConfig
 
-		# Tasks
-		clean: 
-			main: ['build']
+    # Tasks
+    clean: 
+      main: ['build', 'dist']
 
-		copy:
-			main:
-				files: [
-					expand: true
-					cwd: 'src/'
-					src: ['**', '!**/*.less']
-					dest: 'build/'
-				]
+    copy:
+      main:
+        files: [
+          expand: true
+          cwd: 'src/'
+          src: ['**', '!**/*.less']
+          dest: 'build/'
+        ]
 
-		less:
-			main:
-				files:
-					'build/styles/main.css': 'src/styles/main.less'
+    less:
+      main:
+        files:
+          'build/static/styles/main.css': 'src/static/styles/main.less'
 
-		useminPrepare:
-			html: '/index.html'
-			options:
-        dest: 'build-raw/'
-
-		usemin:
-			html: 'build-raw/index.html'
-
-		imagemin:
+    imagemin:
       dist:
         files: [
           expand: true,
@@ -40,20 +32,26 @@ module.exports = (grunt) ->
         ]
 
     jekyll:
+      server:
+        options:
+          src: "build"
+          dest: "dist"
+
+    connect:
+      main:
+        options:
+          port: 9001
+          base: 'dist/'
+          livereload: true
+
+    watch:
       options:
-        serve: true
-        src: "build/"
+        livereload: true
+      dev:
+        files: ['src/**/*.html', 'src/**/*.markdown', 'src/**/*.js', 'src/**/*.less', '!src/libs/**/*.*']
+        tasks: ['clean', 'copy', 'less', 'jekyll']
 
-		watch:
-			dev:
-				files: ['src/**/*.html', 'src/**/*.js', 'src/**/*.less', '!src/libs/**/*.*']
-				tasks: ['clean', 'concurrent']
+    
+  grunt.loadNpmTasks name for name of pkg.devDependencies when name[0..5] is 'grunt-'
 
-		concurrent:
-			transform: ['copy', 'less']
-
-		
-	grunt.loadNpmTasks name for name of pkg.devDependencies when name[0..5] is 'grunt-'
-
-	grunt.registerTask 'default', ['clean', 'concurrent', 'jekyll', 'watch']
-	grunt.registerTask 'dist', ['clean', 'concurrent', 'min', 'compress', 'copy:build'] 
+  grunt.registerTask 'default', ['clean', 'copy', 'less', 'jekyll', 'connect', 'watch']

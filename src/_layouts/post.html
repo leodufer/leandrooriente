@@ -1,0 +1,33 @@
+---
+layout: default
+type: post
+---
+
+<div class="post-item post-page">
+  <div class="right-main-col">
+    <header class="post-header clearfix">
+      <h1 class="post-title">
+        {{ page.title }}
+      </h1>
+      <p class="post-date">{{ page.date | date_to_string }}</p>
+    </header>
+    <div class="post-content">
+        {{ content }}
+    </div> <!-- post-content --> 
+  </div><!--right-main-col-->
+  <div class="left-sidebar-col">
+    <div class="post-author">
+      <img src="/images/profile.jpg" class="profile-pic" alt="">
+      <div class="author-details">
+        <a class="post-author-title" href="{{site.author.googleplus}}">{{site.author.name}}</a>
+        <p class="post-author-description">Desenvolvedor Front End, fotógrafo amador e consultor da vida.</p>
+
+        <div class="share-post">
+          {% include share-provider.html %}
+        </div>
+      </div>
+    </div><!--post-author-->
+  </div><!--left-sidebar-col-->
+</div><!-- post-item -->
+<div class="cf"></div>
+{% include comments.html %}
