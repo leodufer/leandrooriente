@@ -46,16 +46,14 @@ module.exports = (grunt) ->
 
 		watch:
 			dev:
-				options:
-					livereload: true
 				files: ['src/**/*.html', 'src/**/*.js', 'src/**/*.less', '!src/libs/**/*.*']
-				tasks: ['clean', 'concurrent:transform', 'copy:build']
+				tasks: ['clean', 'concurrent']
 
 		concurrent:
-			transform: ['copy:main', 'less']
+			transform: ['copy', 'less']
 
 		
 	grunt.loadNpmTasks name for name of pkg.devDependencies when name[0..5] is 'grunt-'
 
-	grunt.registerTask 'default', ['clean', 'concurrent:transform', 'copy:build', 'watch']
-	grunt.registerTask 'dist', ['clean', 'concurrent:transform', 'autoprefixer', 'min', 'compress', 'copy:build'] 
+	grunt.registerTask 'default', ['clean', 'concurrent', 'jekyll', 'watch']
+	grunt.registerTask 'dist', ['clean', 'concurrent', 'min', 'compress', 'copy:build'] 
