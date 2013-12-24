@@ -6,64 +6,29 @@ module.exports = (grunt) ->
 
 		# Tasks
 		clean: 
-			main: ['build', 'build-raw', '.tmp']
+			main: ['build']
 
 		copy:
 			main:
 				files: [
 					expand: true
 					cwd: 'src/'
-					src: ['**', '!**/*.less', '!**/*.coffee']
-					dest: 'build-raw/'
-				,
-					src: ['src/index.html']
-					dest: 'build-raw/index.debug.html'
+					src: ['**', '!**/*.less']
+					dest: 'build/'
 				]
-			build:
-				expand: true
-				cwd: 'build-raw/'
-				src: '**/*.*'
-				dest: 'build/'
-
-		coffee:
-      main:
-	      files: [
-          expand: true
-          cwd: 'src/coffee'
-          src: ['**/*.coffee']
-          dest: 'build-raw/scripts/'
-          ext: '.js'
-	      ]
-
-	  autoprefixer: 
-      options:
-        browsers: ['last 1 version']
-      dist:
-        files: [
-          expand: true,
-          cwd: 'build-raw/styles/',
-          src: '{,*/}*.css',
-          dest: 'build-raw/styles/'
-        ]
 
 		less:
 			main:
 				files:
-					'build-raw/styles/main.css': 'src/styles/main.less'
+					'build/styles/main.css': 'src/styles/main.less'
 
 		useminPrepare:
-			html: 'build-raw/index.html'
+			html: '/index.html'
 			options:
         dest: 'build-raw/'
 
 		usemin:
 			html: 'build-raw/index.html'
-
-		cssmin:
-			default:
-				options:
-					keepSpecialComments: 0,
-					report: 'gzip'
 
 		imagemin:
       dist:
@@ -74,39 +39,23 @@ module.exports = (grunt) ->
           dest: 'build-raw/images'
         ]
 
-		connect:
-			main:
-				options:
-					port: 9001
-					base: 'build/'
-					livereload: true
-
-		compress:
-		  main:
-		    expand: true,
-		    cwd: 'build-raw/',
-		    src: ['index.html', 'styles/**/*.*', 'scripts/**/*.*', 'images/**/*.*'],
-		    dest: 'build-raw/'
-		    options:
-		      mode: 'gzip'
-
-		remote: main: {}
+    jekyll:
+      options:
+        serve: true
+        src: "build/"
 
 		watch:
 			dev:
 				options:
 					livereload: true
-				files: ['src/**/*.html', 'src/**/*.js', 'src/**/*.less', 'src/**/*.coffee', 'src/**/*.css', '!src/libs/**/*.*']
+				files: ['src/**/*.html', 'src/**/*.js', 'src/**/*.less', '!src/libs/**/*.*']
 				tasks: ['clean', 'concurrent:transform', 'copy:build']
 
 		concurrent:
-			transform: ['copy:main', 'coffee', 'less']
+			transform: ['copy:main', 'less']
 
 		
 	grunt.loadNpmTasks name for name of pkg.devDependencies when name[0..5] is 'grunt-'
 
-	grunt.registerTask 'default', ['clean', 'concurrent:transform', 'copy:build', 'server', 'watch']
-	grunt.registerTask 'min', ['useminPrepare', 'concat', 'uglify', 'cssmin', 'usemin', 'imagemin'] # minifies files
-	grunt.registerTask 'dist', ['clean', 'concurrent:transform', 'autoprefixer', 'min', 'compress', 'copy:build'] # Dist - minifies files
-	grunt.registerTask 'server', ['connect', 'remote']
-	grunt.registerTask 'distLocal', ['dist', 'server', 'watch']
+	grunt.registerTask 'default', ['clean', 'concurrent:transform', 'copy:build', 'watch']
+	grunt.registerTask 'dist', ['clean', 'concurrent:transform', 'autoprefixer', 'min', 'compress', 'copy:build'] 
