@@ -1,5 +1,5 @@
-<header class="navbar header-app">
-    <div class="navbar-header">
+<header class="clearfix header-app">
+    <div class="pull-left">
         {% if page.type == "post" %}
         <p class="logo"><a href="/">{{ site.name }} <span>{{ site.tagline }}</span></a></p>
         {% else %}
@@ -7,8 +7,8 @@
         {% endif %}
     </div>
 
-    <nav class="collapse navbar-collapse" role="navigation">
-        <ul class="nav navbar-nav navbar-right">
+    <nav class="pull-right" role="navigation">
+        <ul class="nav">
             <li>
                 <a href="/about/">
                     <i class="ico-profile"></i> Sobre
