@@ -6,7 +6,7 @@ module.exports = (grunt) ->
 
     # Tasks
     clean: 
-      main: ['build', 'dist']
+      main: ['build', '.tmp', 'dist']
 
     copy:
       main:
@@ -38,6 +38,15 @@ module.exports = (grunt) ->
           dest: 'build/media'
         ]
 
+    useminPrepare:
+      html: 'build/_includes/head.html'
+      options:
+        root: 'build/'
+        dest: 'build/'
+
+    usemin:
+      html: 'build/_includes/head.html'
+
     jekyll:
       server:
         options:
@@ -62,4 +71,5 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks name for name of pkg.devDependencies when name[0..5] is 'grunt-'
 
   grunt.registerTask 'default', ['clean', 'copy:main', 'copy:media', 'less', 'jekyll', 'connect', 'watch']
-  grunt.registerTask 'dist', ['clean', 'copy', 'imagemin', 'less', 'jekyll']
+  grunt.registerTask 'dist', ['clean', 'copy:main', 'imagemin', 'less', 'min', 'jekyll']
+  grunt.registerTask 'min', ['useminPrepare', 'concat', 'cssmin', 'usemin']
