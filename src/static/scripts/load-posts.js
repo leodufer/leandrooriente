@@ -21,28 +21,15 @@ var checkScrollPos = function (){
 var loadPosts = function(){
   isLoading = true;
 
-  function reqListener (response) {
-    if (this.status == 200) {
-      var doc = (new DOMParser).parseFromString(this.responseText, 'text/html'),
-          posts = doc.getElementById('posts'),
-          pagePosts = document.getElementById('more-posts');
-      
-      console.log(posts);
+  $.get("/page" + ++page + "/", function(response){
+    var $posts = $(response).find('#posts');
+    $('#more-posts').append($posts)
 
-      pagePosts.appendChild(posts);
-      isLoading = false;
-    };
-
+    isLoading = false;
     if (page >= TOTAL_PAGES) {
       fullLoad = true;
     }
-
-  }
-
-  var oReq = new XMLHttpRequest();
-  oReq.onload = reqListener;
-  oReq.open("get", "/page" + ++page + "/", true);
-  oReq.send();
+  })
 };
 
 window.onload = checkScrollPos();
