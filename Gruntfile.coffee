@@ -55,3 +55,4 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks name for name of pkg.devDependencies when name[0..5] is 'grunt-'
 
   grunt.registerTask 'default', ['clean', 'copy', 'less', 'jekyll', 'connect', 'watch']
+  grunt.registerTask 'dist', ['clean', 'copy', 'less', 'jekyll']
