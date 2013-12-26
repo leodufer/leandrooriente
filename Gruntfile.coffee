@@ -13,7 +13,14 @@ module.exports = (grunt) ->
         files: [
           expand: true
           cwd: 'src/'
-          src: ['**', '!**/*.less']
+          src: ['**', '!**/*.less', '!media/*.*']
+          dest: 'build/'
+        ]
+      media:
+        files: [
+          expand: true
+          cwd: 'src/'
+          src: ['media/*.*']
           dest: 'build/'
         ]
 
@@ -26,9 +33,9 @@ module.exports = (grunt) ->
       dist:
         files: [
           expand: true,
-          cwd: 'build-raw/images',
+          cwd: 'src/media',
           src: '{,*/}*.{gif,jpeg,jpg,png}',
-          dest: 'build-raw/images'
+          dest: 'build/media'
         ]
 
     jekyll:
@@ -54,5 +61,5 @@ module.exports = (grunt) ->
     
   grunt.loadNpmTasks name for name of pkg.devDependencies when name[0..5] is 'grunt-'
 
-  grunt.registerTask 'default', ['clean', 'copy', 'less', 'jekyll', 'connect', 'watch']
-  grunt.registerTask 'dist', ['clean', 'copy', 'less', 'jekyll']
+  grunt.registerTask 'default', ['clean', 'copy:main', 'copy:media', 'less', 'jekyll', 'connect', 'watch']
+  grunt.registerTask 'dist', ['clean', 'copy', 'imagemin', 'less', 'jekyll']
