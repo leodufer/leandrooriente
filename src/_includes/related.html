@@ -1,0 +1,17 @@
+<div class="post-related">
+  <div class="container">
+    <h3>Pode gostar também</h3>
+    <ul class="post-related-itens">
+      {% for post in site.related_posts limit:5 %}
+      <li>
+        <a href="{{ post.url }}">
+          {{ post.title }}
+          {% for tags in post.tags %}
+            <span class="label label-default">{{ tags }}</span>
+          {% endfor %}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

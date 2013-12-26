@@ -8,6 +8,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-app {
   background: #f9f9f9;
+  margin-bottom: 100px;
 
   a {
     color: #333;
@@ -39,17 +40,35 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
   }
 }
-.content {
-  padding: 100px 0;
-}
 .post-item {
+
+  h2 {
+    margin: 48px 0 28px;
+  }
+
+  h3 {
+    margin: 32px 0 22px;
+  }
+
+  p {
+    margin-bottom: 22px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+  }
+
   .container {
     font-size: 18px;
     margin-bottom: 100px;
     padding-bottom: 100px;
     border-bottom: 1px solid #dededc;
 
-    h2 {
+    .post-title {
       margin-top: 0;
 
       a {
@@ -58,7 +77,18 @@ h1, h2, h3, h4, h5, h6 {
     }
   }
 
-  .post-highlight-image { border: 1px solid #dededc; }
+  .post-author {
+    padding-top: 50px;
+    margin-top: 50px;
+    border-top: 1px solid #dededc;
+  }
+
+  .post-author-title {
+    font-size: 30px;
+    color: #c0392b;
+  }
+
+  .post-highlight-image { border: 1px solid #dededc; margin-bottom: 30px; }
 
   .post-date {
     font-size: 24px;
@@ -71,6 +101,72 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     padding-bottom: 0;
     border-bottom: 0;
+  }
+
+}
+
+.post-related {
+  margin: 50px 0;
+  padding: 0;
+
+  li {
+    display: block;
+    list-style: none;
+    font-size: 16px;
+    background: #f9f9f9;
+    margin-bottom: 15px;
+    border-left: 3px solid #c0392b;
+  }
+  a {
+    padding: 15px 0 15px 15px;
+    display: block;
+    color: #c0392b;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  .label {
+    position: relative;
+    top: -3px;
+    margin-left: 3px;
+  }
+}
+.post-related-itens {
+  margin: 20px 0 0;
+  padding: 0;
+}
+
+.not {
+  color: #999;
+  text-decoration: line-through;
+}
+
+.fb-share-button, .twitter-share-button, .g-plus-share-button {
+  width: 95px !important;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+    margin-bottom: 50px;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.post-page {
+  .container {
+    max-width: 700px;
+    margin: 0 auto;
   }
 }
 
@@ -105,4 +201,10 @@ h1, h2, h3, h4, h5, h6 {
       margin-right: 4px;
     }
   }
+}
+
+.pagination {
+  position: absolute;
+  z-index: -1;
+  left: -3000px;
 }

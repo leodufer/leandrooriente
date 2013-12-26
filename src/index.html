@@ -2,10 +2,11 @@
 layout: default
 title: Leandro Oriente - Desenvolvedor Front End
 type: static
+ref: index
 ---
 
 	<div id="home">
-		<div class="posts">
+		<div class="posts" id="posts">
 		{% for post in paginator.posts %}
 			<div class="post-item">
 				<div class="container">
@@ -33,10 +34,14 @@ type: static
 					</div>
 				</div>
 			</div><!-- post-item -->
-
 		{% endfor %}
+		<div id="more-posts"></div>
 		</div>
 
-		<!-- {% include pagination.html %} -->
+		{% include pagination.html %}
 
 	</div>
+
+	<script>
+		var TOTAL_PAGES = {{ paginator.total_pages }}
+	</script>
