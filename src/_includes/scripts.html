@@ -1,9 +1,13 @@
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script src="/static/libs/zepto.min.js"></script>
+<script src="/static/scripts/adsense.js"></script>
+
 {% if page.type == "post" %}
   <script src="/static/scripts/social.js"></script>  
 {% endif %}
 
 {% if page.ref == "index" %}
-  <script src="/static/libs/zepto.min.js"></script>
   <script>
     var isLoading=false,fullLoad=false;page=1;var checkScrollPos=function(){var e=document.body.clientHeight;window.onscroll=function(t){var n=document.documentElement;var r=(window.pageYOffset||n.scrollTop)-(n.clientTop||0);if(e-r<1500){if(!isLoading&&!fullLoad){loadPosts()}}}};var loadPosts=function(){isLoading=true;$.get("/page"+ ++page+"/",function(e){var t=$(e).find("#posts");$("#more-posts").append(t);isLoading=false;if(page>=TOTAL_PAGES){fullLoad=true}})};window.onload=checkScrollPos()
   </script>
