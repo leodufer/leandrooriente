@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+  adsbygoogle = window.adsbygoogle || [];
+
   var _browserSize = $(window).width(),
       ads = {},
       $header = $('#header-ad'),
@@ -24,9 +26,9 @@ $(document).ready(function(){
   ads.renderElem = function(adClient, adSlot, elem, elemClass) {
     elem.data('ad-client', adClient).data('ad-slot' , adSlot)
       .addClass(elemClass);
+    adsbygoogle.push({});
   };
 
-  console.log(_browserSize);
   if (_browserSize > 900) {
     ads.fillDesktopAds();
     ads.renderElem('ca-pub-1601752090500951', '7278490821', $header, 'ad-header');
@@ -35,7 +37,4 @@ $(document).ready(function(){
   } else {
     ads.fillMobileAds();
   }
-
-  (adsbygoogle = window.adsbygoogle || []).push({});
-
 });
