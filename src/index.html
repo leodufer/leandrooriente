@@ -34,7 +34,7 @@ ref: index
 					</div>
 				</div>
 			</div><!-- post-item -->
-			{% if forloop.index  == 2 %}
+			{% if forloop.index  == 2 && paginator.page == 1 %}
 				<ins class="adsbygoogle middle-posts-ad ads" id="middle-posts-ad"></ins>
 			{% endif %}
 		{% endfor %}
