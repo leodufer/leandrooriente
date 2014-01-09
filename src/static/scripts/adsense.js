@@ -11,6 +11,7 @@ $(document).ready(function(){
   ads.fillDesktopAds = function(){
     ads.renderElem('ca-pub-1601752090500951', '8329748429', $middlePost, 'ad-970');
     ads.renderElem('ca-pub-1601752090500951', '6713414425', $footerPost, 'ad-970');
+    ads.renderElem('ca-pub-1601752090500951', '7278490821', $header, 'ad-header');
   };
 
   ads.fillTabletAds = function(){
@@ -33,7 +34,6 @@ $(document).ready(function(){
 
   if (_browserSize > 900) {
     ads.fillDesktopAds();
-    ads.renderElem('ca-pub-1601752090500951', '7278490821', $header, 'ad-header');
   } else if (_browserSize > 480) {
     ads.fillTabletAds();
   } else {
