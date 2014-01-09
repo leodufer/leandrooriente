@@ -61,7 +61,9 @@ $(document).ready(function(){
   };
 
   if (_browserSize > 1270) { 
-    ads.sidePostFixedAd();
+    if ($sidePost.length) {
+      ads.sidePostFixedAd();
+    };
     ads.fillDesktopAds();
   } else if (_browserSize > 900) {
     ads.fillDesktopAds();
