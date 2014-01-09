@@ -2,6 +2,7 @@ $(document).ready(function(){
 
   var _browserSize = $(window).width(),
       ads = {},
+      $header = $('#header-ad'),
       $middlePost = $('#middle-posts-ad'),
       $footerPost = $('#footer-post-ad');
 
@@ -28,6 +29,7 @@ $(document).ready(function(){
   console.log(_browserSize);
   if (_browserSize > 900) {
     ads.fillDesktopAds();
+    ads.renderElem('ca-pub-1601752090500951', '1371558027', $header, 'ad-header');
   } else if (_browserSize > 480) {
     ads.fillTabletAds();
   } else {
