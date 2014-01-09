@@ -24,9 +24,11 @@ $(document).ready(function(){
   };
 
   ads.renderElem = function(adClient, adSlot, elem, elemClass) {
-    elem.data('ad-client', adClient).data('ad-slot' , adSlot)
-      .addClass(elemClass);
-    adsbygoogle.push({});
+    if (elem.length) {
+      elem.data('ad-client', adClient).data('ad-slot' , adSlot)
+        .addClass(elemClass);
+      adsbygoogle.push({});
+    }
   };
 
   if (_browserSize > 900) {
