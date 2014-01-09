@@ -29,7 +29,7 @@ $(document).ready(function(){
   console.log(_browserSize);
   if (_browserSize > 900) {
     ads.fillDesktopAds();
-    ads.renderElem('ca-pub-1601752090500951', '1371558027', $header, 'ad-header');
+    ads.renderElem('ca-pub-1601752090500951', '7278490821', $header, 'ad-header');
   } else if (_browserSize > 480) {
     ads.fillTabletAds();
   } else {
