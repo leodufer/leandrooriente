@@ -47,8 +47,6 @@ $(document).ready(function(){
       if ($(window).scrollTop() < _offsetPost.top - _adMgt) {
         $sidePost.addClass('ad-side-post').removeClass('ad-fixed-side-post ad-abs-bottom-side-post');
       } else if ($(window).scrollTop() < (_offsetPost.top + $postItem.height() - ($sidePost.height() + _adMgt))) {
-        console.log('Passei o post');
-
         $sidePost.addClass('ad-fixed-side-post').removeClass('ad-side-post ad-abs-bottom-side-post');
         $sidePost.css({
           'left' : _offsetAd.left,
