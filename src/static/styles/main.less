@@ -73,6 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   .container {
+    position: relative;
     font-size: 18px;
     margin-bottom: 100px;
     padding-bottom: 100px;
@@ -247,6 +248,27 @@ h1, h2, h3, h4, h5, h6 {
   width: 320px;
   height: 50px;
   margin: 100px auto;
+}
+.ad-side-post {
+  position: absolute;
+  right: -280px !important;
+  top: 0 !important;
+  left: inherit !important;
+  bottom: inherit !important;
+  width: 250px;
+  height: 250px;
+  display: block;
+  outline: 1px solid #eee;
+}
+.ad-fixed-side-post {
+  position: fixed;
+}
+.ad-abs-bottom-side-post {
+  bottom: 0 !important;
+  left: inherit !important;
+  top: inherit !important;
+  right: -280px !important;
+  position: absolute;
 }
 
 // ICOS
