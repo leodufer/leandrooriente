@@ -34,7 +34,7 @@ Voltando aos números, deu para manter o pagespeed da home em 93 e o ySlow em 90
 
 Provavelmente você notou alguns Ads do google adsense espalhados pelo blog. Tenho meus motivos e o menor deles é ganhar dinheiro.
 
-Sempre tive um foco muito grande em SEO. Trabalhei em um grande portal de conteúdo voltado para desenvolvedores como Analista por um tempo e fiz o curso da Agência Mestre (MestreSEO na época). Boa parte desse conhecimento é aplicado aqui, no meu blog e pretendo dar meus pitacos sobre SEO em alguns posts.
+Sempre tive um foco muito grande em SEO. Trabalhei em um grande portal de conteúdo voltado para desenvolvedores como Analista por um tempo e fiz o curso da Agência Mestre (MestreSEO na época). Boa parte desse conhecimento é aplicado aqui no blog e pretendo dar meus pitacos sobre SEO em alguns posts.
 
 Aliás gostaria de me parabenizar. Nos últimos dias ultrapassei o meu último rival pelo termo "desenvolvedor front end". 
 
