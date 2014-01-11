@@ -38,12 +38,12 @@ $(document).ready(function(){
   ads.sidePostFixedAd = function() {
     ads.renderElem('ca-pub-1601752090500951', '5236681221', $sidePost);
 
+    $sidePost.addClass('ad-side-post');
+
     var $postItem = $('.post-item'),
         _offsetAd = $sidePost.offset(),
         _offsetPost = $postItem.offset(),
         _adMgt = 20;
-
-    $sidePost.addClass('ad-side-post');
 
     $(window).scroll(function(){
       if ($(window).scrollTop() < _offsetPost.top - _adMgt) {
