@@ -43,6 +43,8 @@ $(document).ready(function(){
         _offsetPost = $postItem.offset(),
         _adMgt = 20;
 
+    $sidePost.addClass('ad-side-post');
+
     $(window).scroll(function(){
       if ($(window).scrollTop() < _offsetPost.top - _adMgt) {
         $sidePost.addClass('ad-side-post').removeClass('ad-fixed-side-post ad-abs-bottom-side-post');
