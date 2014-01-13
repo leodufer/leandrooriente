@@ -6,22 +6,24 @@ ref: index
 ---
 
 	<div id="home">
-		<div class="posts" id="posts">
+		<div class="posts" id="posts" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
 		{% for post in paginator.posts %}
-			<div class="post-item">
+			<article class="post-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6">
-							<a href="{{ post.url }}/"><img src="{{ post.image_highlight }}" class="img-rounded img-responsive post-highlight-image"></a>
+							<a href="{{ post.url }}/"><img itemprop="image" src="{{ post.image_highlight }}" class="img-rounded img-responsive post-highlight-image"></a>
 						</div>
 						<div class="col-md-6">
-							<header class="post-header clearfix">
+							<header class="post-header clearfix" itemprop="headline">
 								<h2 class="post-title">
-									<a href="{{ post.url }}/">{{ post.title }}</a>
+									<a itemprop="url" href="{{ post.url }}/">
+										<span itemprop="name">{{ post.title }}</span>
+									</a>
 								</h2>
 							</header>
 							<div class="post-content">
-								<div class="post-excerpt">
+								<div class="post-excerpt" itemprop="text">
 								{% if post.content contains '<!--more-->' %}
 									{{ post.content | split:'<!--more-->' | first }}
 								{% else %}
@@ -29,11 +31,12 @@ ref: index
 								{% endif %}
 								</div> <!-- post-excerpt -->
 								<p class="post-date">{{ post.date | date_to_string }}</p>
+								<meta itemprop="datePublished" content="{{ site.time  | date_to)xmlschema }}"/>
 							</div> <!-- post-content --> 
 						</div>
 					</div>
 				</div>
-			</div><!-- post-item -->
+			</article><!-- post-item -->
 			{% if forloop.index == 2 %}
 				{% if paginator.page == 1  %}
 					<ins class="adsbygoogle middle-posts-ad ads" id="middle-posts-ad"></ins>
