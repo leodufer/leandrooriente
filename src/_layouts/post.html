@@ -3,27 +3,28 @@ layout: default
 type: post
 ---
 
-<div class="post-item post-page">
+<div class="post-item post-page" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="container">
     <header class="post-header clearfix">
-      <h1 class="post-title">
+      <h1 class="post-title" itemprop="name">
         {{ page.title }}
       </h1>
+      <meta itemprop="datePublished" content="{{ site.time  | date_to)xmlschema }}"/>
       <p class="post-date">{{ page.date | date_to_string }}</p>
     </header>
     {% if page.image_highlight %}
     <img src="{{ page.image_highlight }}" alt="{{ page.title }}" class="img-rounded img-responsive post-highlight-image">
     {% endif %}
-    <div class="post-content">
+    <div class="post-content"  itemprop="articleBody">
         {{ content }}
     </div> <!-- post-content --> 
-    <div class="post-author row">
+    <div class="post-author row" itemprop="author">
       <div class="col-md-3 col-xs-3">
         <img src="/media/profile.jpg" class="profile-pic img-circle" alt="">
       </div>
       <div class="col-md-9 col-xs-9">
-        <div class="author-details">
-          <a class="post-author-title" href="{{site.author.googleplus}}">{{site.author.name}}</a>
+        <div class="author-details"  itemscope itemtype="http://schema.org/Person">
+          <a class="post-author-title" itemprop="name" href="{{site.author.googleplus}}">{{site.author.name}}</a>
           <p class="post-author-description">Desenvolvedor Front End, fotógrafo amador e consultor da vida.</p>
 
           <div class="share-post">
