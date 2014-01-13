@@ -4,12 +4,12 @@
 			{% if paginator.previous_page == 1 %}
 		<a class="btn btn-primary btn-lg" href="/" class="previous">Anterior</a>
 			{% else %}
-		<a class="btn btn-primary btn-lg" href="/page{{ paginator.previous_page }}" class="previous">Anterior</a>
+		<a class="btn btn-primary btn-lg previous" href="/page{{ paginator.previous_page }}">Anterior</a>
 			{% endif %}	
 		{% endif %}
 
 		{% if paginator.next_page %}
-		<a class="btn btn-primary btn-lg" href="/page{{ paginator.next_page }}" class="next">Próxima página</a>
+		<a class="btn btn-primary btn-lg next" href="/page{{ paginator.next_page }}">Próxima página</a>
 		{% endif %}
 	</div>
 </div>
