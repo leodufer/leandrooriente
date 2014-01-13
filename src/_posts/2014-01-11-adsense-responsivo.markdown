@@ -36,9 +36,11 @@ Provavelmente você notou alguns Ads do google adsense espalhados pelo blog. Ten
 
 Sempre tive um foco muito grande em SEO. Trabalhei em um grande portal de conteúdo voltado para desenvolvedores como Analista por um tempo e fiz o curso da Agência Mestre (MestreSEO na época). Boa parte desse conhecimento é aplicado aqui no blog e pretendo dar meus pitacos sobre SEO em alguns posts.
 
-<span class="not">Aliás gostaria de me parabenizar. Nos últimos dias ultrapassei o meu último rival pelo termo "desenvolvedor front end".</span> Maldito Jimmy Wales, mal posso ver seus movimentos. 
+<span class="not">Aliás gostaria de me parabenizar. Nos últimos dias ultrapassei o meu último rival pelo termo "desenvolvedor front end".</span> 
 
-Um sitezinho com uns artigos sobre tudo que existe no mundo. Se não falha a memória se chama Wikipedia.
+<span class="not">Um sitezinho com uns artigos sobre tudo que existe no mundo. Se não falha a memória se chama Wikipedia.</span>  
+
+Maldito Jimmy Wales, mal posso ver seus movimentos. 
 
 Voltando ao assunto. Tenho uma bagagem interessante de SEO, mas pouquíssima de Adwords e nunca tinha tocado em Adsense.
 
