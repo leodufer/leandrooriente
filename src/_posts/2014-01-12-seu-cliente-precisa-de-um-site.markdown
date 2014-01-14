@@ -84,6 +84,7 @@ Quer ser ousado? Ousado mesmo? Crie uma campanha no [Adwords](http://www.google.
 É muito importante que o cadastro nos diretórios e no Google Plus seja muito objetivo e claro. Já que vai ser o ponto alto de sua conversão. Capriche na descrição e nas fotos (um fotógrafo profissional faz a diferença nesses casos).
 
 Segue um pequeno guia do que não pode faltar.
+
 - Nome do estabelecimento.
 - Nome popular. A Padaria do Manoel Pereira em Rocha, pode ser conhecida localmente como Padaria do Manel.
 - Endereço completo. Caso tenha mais de um, cadastre todos.
