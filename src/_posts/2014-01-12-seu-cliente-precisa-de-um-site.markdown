@@ -10,7 +10,7 @@ image_thumb: "/media/cliente-nao-precisa-site-thumb.jpg"
 image_highlight: "/media/cliente-nao-precisa-site.jpg"
 ---
 
-Atenção, esse é um post polêmico. Antes de iniciar o processo de leitura, esvaziem a mente, procurem um lugar tranquilo e preparem-se porque a mensagem não é das mais agradáveis.
+Atenção, esse é um post polêmico. Antes de iniciar o processo de leitura, esvaziem a mente, procurem um lugar tranquilo e preparem-se, porque a mensagem não é das mais agradáveis.
 
 A resposta para a pergunta acima é: **Provavelmente não**.
 
@@ -26,7 +26,7 @@ Quando uma padaria paga um carro de som para anunciar pelo bairro, isso gera um 
 
 *"Como assim Leandro, a internet toda está ali, são milhões de pessoas que podem ver o meu site e vir a se tornar um cliente! É o melhor marketing do MUNDO"*
 
-Não é bem assim que a coisa funciona. Os usuários de fato estão ali. Milhões deles, na realidade Bilhões, mas isso não é garantia nenhuma de que vão ter interesse no seu site ou achá-lo em meio a tantos outros.
+Não é bem assim que a coisa funciona. Os usuários de fato estão ali. Milhões deles, na realidade bilhões, mas isso não é garantia nenhuma de que vão ter interesse no seu site ou acha-lo em meio a tantos outros.
 
 Já pararam para pensar, quantas vezes vocês pesquisaram por cabelereiros, papelarias, oficinas, açougues, mercados e tantos outros pequenos e médios negócios da região na internet? 
 
