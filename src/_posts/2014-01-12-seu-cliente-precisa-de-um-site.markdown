@@ -65,7 +65,7 @@ Caso esteja me odiando, compartilhe no facebook usando mensagens como:
 
 Ficarei muito chateado. De verdade.
 
-Caso esteja me amando, vamos focar em ganhar dinheiro. Você é um profissional de TI. Pode muito bem prestar uma consultoria achando uma solução mais em conta para o seu cliente e tirando o seu também.
+Caso esteja me amando, vamos focar em ganhar dinheiro. Você é um profissional de TI. Pode muito bem prestar uma consultoria achando uma solução mais em conta para o seu cliente, tirando o seu também.
 
 ### Presença digital para pequenas e médias empresas
 
@@ -75,13 +75,13 @@ Uma página no Google Plus ajuda muito. Ela vai mudar um pouco a forma como o se
 
 Crie também contas em diretórios de serviços locais como o [Apontador](http://www.apontador.com.br/) e [kekanto](http://br.kekanto.com/). Não precisa se limitar aos dois não, existem dezenas de outros, alguns free outros pagos, mas geralmente com um valor bem razoável.
 
-E pronto. Provavelmente é o suficiente. Seu cliente não vai gastar cem reais ao mês e vai ter um retorno bem maior que um site de dois mil reais. Em cima disso você coloca o seu valor, pela excelente consultoria prestada.
+E pronto. Provavelmente é o suficiente. Seu cliente não vai gastar nem cem reais ao mês e vai ter um retorno bem maior que um site de dois mil reais. Em cima disso você coloca o seu valor, pela excelente consultoria prestada.
 
 *Achei legal Leandro, mas meu cliente pretende investir mais um pouco de dinheiro. Como posso potencializar seus resultados?*
 
-Quer ser ousado? Ousado mesmo? Crie uma campanha no [Adwords](http://www.google.com/adwords/) com palavras chaves bem limitadas para a sua região e aponte para o diretório com o melhor cadastro ou para sua página no Google Plus.
+Quer ser ousado? Ousado mesmo? Crie uma campanha no [Adwords](http://www.google.com/adwords/) com palavras chaves bem limitadas para a sua região e aponte para o diretório com o melhor cadastro ou para a página no Google Plus.
 
-É muito importante que seu cadastro nos diretórios e no Google Plus seja muito objetivo e claro. Já que vai ser o ponto alto de sua conversão. Capriche na descrição e nas fotos (um fotógrafo profissional faz a diferença nesses casos).
+É muito importante que o cadastro nos diretórios e no Google Plus seja muito objetivo e claro. Já que vai ser o ponto alto de sua conversão. Capriche na descrição e nas fotos (um fotógrafo profissional faz a diferença nesses casos).
 
 Segue um pequeno guia do que não pode faltar.
 - Nome do estabelecimento.
@@ -90,6 +90,8 @@ Segue um pequeno guia do que não pode faltar.
 - Telefone de contato. A maioria desses negócios é 100% dependente do telefone.
 - E-mail de contato.
 - Descrição enxuta e objetiva. Caso o negócio tenha um diferencial legal, foque nele. Vale mais um "70% de desconto no corte de cabelo aos domingos" do que um "o melhor cabelereiro de Taubaté".
+
+![PUB em Ipanema no Google Plus](/media/pub-ipanema-gplus.jpg)
 
 ## Conclusão
 
