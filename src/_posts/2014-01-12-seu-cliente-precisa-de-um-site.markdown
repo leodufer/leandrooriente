@@ -59,6 +59,7 @@ Quem ta faturando mais? Quem vai me vender pãozinho fresco nas manhãs de ressa
 Nesse momento você pode estar com dois sentimentos diferentes em relação a minha pessoa. Você pode estar com muita raiva de mim ou se deu conta de que o seu papel, enquanto profissional de TI e porque não de negócios, é de fornecer a melhor solução para o negócio de seu cliente e isso não necessariamente significa desenvolver um site.
 
 Caso esteja me odiando, compartilhe no facebook usando mensagens como:
+
 - Esse babaca só fala m@#*$#.
 - Cadê o sindicato para exigir faculdade desses sobrinhos.
 - Não gosta de dinheiro abre uma ONG.
