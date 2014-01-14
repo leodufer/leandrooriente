@@ -24,7 +24,7 @@ Entenda o site como uma forma de marketing como outra qualquer. Você investe o 
 
 Quando uma padaria paga um carro de som para anunciar pelo bairro, isso gera um retorno de investimento, correto? Quando uma escola faz panfletagem na entrada da prova do ENEM, isso também gera retorno. Agora, você já parou para pensar se os 2 mil reais investidos naquele site da oficina do João gerou algum retorno para o seu cliente? Pois é, você não mensurou os resultados e eles não seriam dos melhores.
 
-*"Como assim Leandro, a internet toda está ali, são milhões de pessoas que podem ver o meu site e vir a se tornar um cliente! É o melhor marketing do MUNDO"*
+*"Como assim Leandro, a internet toda está ali, são milhões de pessoas que podem ver o meu site e vir a se tornar um cliente! É o melhor marketing do MUNDO"* 
 
 Não é bem assim que a coisa funciona. Os usuários de fato estão ali. Milhões deles, na realidade bilhões, mas isso não é garantia nenhuma de que vão ter interesse no seu site ou acha-lo em meio a tantos outros.
 
