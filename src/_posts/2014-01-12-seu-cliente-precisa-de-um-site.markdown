@@ -93,16 +93,32 @@ Segue um pequeno guia do que não pode faltar.
 
 ![PUB em Ipanema no Google Plus](/media/pub-ipanema-gplus.jpg)
 
-## Conclusão
+Quer página melhor para pequenas e médias empresas que essa? Fotos, reviews dos clientes, endereço, telefone, layout arrumado e bem ranqueado.
+
+## Conclusões
 
 Fiz esse post de forma mais pesada e debochada, justamente para forçar a reflexão dos desenvolvedores. Muitos fazem sites simplesmente por fazer. Tem um molde pré definido (home, quem somos, serviços e contato) do que tem que ser feito e entregam isso como a melhor solução do universo.
 
-Não somos mágicos, não somos deuses e não temos super poderes. Estamos apenas trabalhando para gerar valor para o negócio de nosso cliente e se isso não representar desenvolver um site e cobrar 2, 3, 4 mil reais, seria praticamente corrupção o fazer.
+Não somos mágicos, não somos deuses e não temos super poderes. Estamos apenas trabalhando para gerar valor para o negócio de nosso cliente e isso nem sempre significa desenvolver um site e cobrar 2, 3, 4 mil reais.
 
-Quando falo de pequenas e médias empresas, parece um cenário limitado, mas não é. Acredito que seja a grande maioria dos clientes que recorrem a um profissional freelancer ou uma agência pequena. Uma empresa maior procura uma boa agência ou tem uma equipe própria de desenvolvimento.
+Quando falo de pequenas e médias empresas, parece um cenário limitado, mas não é. Acredito que seja a grande maioria dos clientes que recorrem a um profissional freelancer ou uma agência pequena. Uma empresa maior procura uma boa agência ou tem uma equipe própria de desenvolvimento. E geralmente são os clientes que realmente tem um diferencial que necessita de certa automatização.
 
 Eu não estou me insentando da responsabilidade não. Fiz parte do grupo que pretendo atingir com esse post por alguns anos.
 
 Hoje em dia se pego um freela por ano é muito. Repasso boa parte por não atender ao meu orçamento, outra por não acreditar na ideia do cliente e o restante por não achar necessário o desenvolvimento de um site. Nesses casos, faço uma mini consultoria de graça.
 
-Obviamente que o conteúdo desse post são conclusões que eu tirei ao longo do tempo e que alguns profissionais com quem converso compartilham também, mas e você? O que acha? O post é sensacionalista e exagerado ou tem um pingo de verdade lá no fundo?
+### Observem as oportunidades
+
+Até agora fiz algumas críticas, mostrei formas eficientes de atender pequenos e médios clientes com recursos mais limitados porém não disse nada que agregasse muito ao desenvolvedor em si.
+
+Tirei o pão mas não dei nada em troca. 
+
+Notaram que os serviços que mostrei como ferramentas melhores para os clientes tiveram essa percepção a anos e criaram uma plataforma em torno disso?
+
+Apontador como diretório de negócios locais, Mercado Livre como loja virtual para pequenos negócios e usuários, Zap Imóveis como diretório de imóveis e tantos outros que pegaram essas oportunidades e tornaram em ferramentas fantásticas.
+
+Será que não da para fazer algo otimizado para a sua região? Ou para um negócio novo que não tenha ainda uma boa plataforma? Será que esse monte de site perdido com informações soltas e sem retorno algum, não poderiam fazer parte de uma aplicação mais parruda com um domínio forte e presença marcante na sua cidade?
+
+É justo cobrar cinco mil em um site, sabendo que o cliente não vai ter o retorno do seu dinheiro?
+
+Obviamente que o conteúdo desse post são conclusões que eu tirei ao longo do tempo e que alguns profissionais com quem converso compartilham, mas e você? O que acha? O post é sensacionalista e exagerado ou tem um pingo de verdade?
