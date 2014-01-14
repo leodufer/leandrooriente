@@ -14,6 +14,8 @@ Atenção, esse é um post polêmico. Antes de iniciar o processo de leitura, es
 
 A resposta para a pergunta acima é: **Provavelmente não**.
 
+<!--more-->
+
 Boa parte dos pequenos e médios negócios não precisam de um site. Sabe aquele papinho de "sua marca 24 hrs por dia, 7 dias na semana e 365 dias por ano online", "sua marca presente para milhões de pessoas", "passe mais credibilidade aos seus clientes"... Então, é furada.
 
 ## Vamos começar por um quesito básico de qualquer negócio. O marketing.
