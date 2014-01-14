@@ -16,13 +16,13 @@ A resposta para a pergunta acima é: **Provavelmente não**.
 
 <!--more-->
 
-Boa parte dos pequenos e médios negócios não precisam de um site. Sabe aquele papinho de "sua marca 24 hrs por dia, 7 dias na semana e 365 dias por ano online", "sua marca presente para milhões de pessoas", "passe mais credibilidade aos seus clientes"... Então, é furada.
+Boa parte dos pequenos e médios negócios não precisam de um site. Sabe aquele papinho de "sua marca 24 horas por dia, 7 dias na semana e 365 dias por ano online", "sua marca presente para milhões de pessoas", "passe mais credibilidade aos seus clientes"... Então, é furada.
 
 ## Vamos começar por um quesito básico de qualquer negócio. O marketing.
 
-Entenda o site como uma forma de marketing como outra qualquer. Você investe o dinheiro esperando que tenha um retorno posteriormente. 
+Entenda o site como uma forma de marketing como outra qualquer. Você investe o dinheiro esperando que tenha um retorno posterior. 
 
-Quando uma padaria paga um carro de som para anunciar pelo bairro, isso gera um retorno de investimento, correto? Quando uma escola faz panfletagem na entrada da prova do ENEM, isso também gera retorno. Agora, você já parou para pensar se os 2 mil reais investidos naquele site da oficina do João gerou algum retorno para o seu cliente? Pois é, você não mensurou os resultados e eles não seriam dos melhores.
+Quando uma padaria paga um carro de som para anunciar pelo bairro, isso gera um retorno de investimento, correto? Quando uma escola faz panfletagem na entrada da prova do ENEM, isso também gera retorno. Agora, você já parou para pensar se os dois mil reais investidos naquele site da oficina do João gerou algum retorno para ele? Pois é, você não mensurou os resultados e eles não seriam dos melhores mesmo.
 
 *"Como assim Leandro, a internet toda está ali, são milhões de pessoas que podem ver o meu site e vir a se tornar um cliente! É o melhor marketing do MUNDO"* 
 
@@ -46,17 +46,17 @@ Todos analisaram a imagem anterior? Notaram algo fantástico nela? Caso não, vo
 
 **Não tem nenhum site (independente) no resultado.**
 
-Ou são páginas no google plus com direito a SERP com Google Maps ou são diretórios de negócios e serviços. O primeiro site que achei caiu na terceira página, na sétima posição (CTR provavelmente de -3%).
+Ou são páginas do google plus com direito a SERP com Google Maps ou são diretórios de negócios e serviços. O primeiro site que achei caiu na terceira página, na sétima posição (CTR provavelmente de -3%).
 
 Sabe quanto os 10 primeiros resultados investiram em sua "presença digital"? Isso mesmo, nada. 
 
 E o grande empreendedor da terceira página com um site cheio de firulas e conteúdo inútil, por baixo uns mil reais, mais os custos mensais.
 
-Quem ta faturando mais? Quem vai me vender pãozinho fresco nas manhãs de ressaca?
+Quem ta faturando mais? Quem vai me vender pãozinho fresco nas manhãs de domingo?
 
 ### Ponto chave
 
-Nesse momento você pode estar com dois sentimentos diferentes em relação a minha pessoa. Você pode estar com muita raiva de mim ou se deu conta de que o seu papel, enquanto profissional de TI e porque não de negócios, é de fornecer a melhor solução para o negócio de seu cliente e isso não necessariamente significa desenvolver um site.
+Nesse momento você pode estar com dois sentimentos diferentes em relação a minha pessoa. Muita raiva e vontade de me esganar por ir contra parte do seu ganha pão ou me ama e se deu conta de que o seu papel, enquanto profissional de TI e, por que não, de negócios, é de fornecer a melhor solução para o negócio de seu cliente e isso não necessariamente significa desenvolver um site.
 
 Caso esteja me odiando, compartilhe no facebook usando mensagens como:
 
@@ -80,7 +80,7 @@ Uma fan page no facebook com um cadastro bem completo pode ser uma boa alternati
 
 E pronto. Provavelmente é o suficiente. Seu cliente não vai gastar nem cem reais ao mês e vai ter um retorno bem maior que um site de dois mil reais. Em cima disso você coloca o seu valor, pela excelente consultoria prestada.
 
-*Achei legal Leandro, mas meu cliente pretende investir mais um pouco de dinheiro. Como posso potencializar seus resultados?*
+*"Achei legal Leandro, mas meu cliente pretende investir mais um pouco de dinheiro. Como posso potencializar seus resultados?"*
 
 Quer ser ousado? Ousado mesmo? Crie uma campanha no [Adwords](http://www.google.com/adwords/) com palavras chaves bem limitadas para a sua região e aponte para o diretório com o melhor cadastro ou para a página no Google Plus.
 
