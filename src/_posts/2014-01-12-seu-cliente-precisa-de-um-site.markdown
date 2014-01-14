@@ -10,7 +10,7 @@ image_thumb: "/media/cliente-nao-precisa-site-thumb.jpg"
 image_highlight: "/media/cliente-nao-precisa-site.jpg"
 ---
 
-Atenção, esse é um post polêmico. Antes de iniciar o processo de leitura, esvazie a mente, procure um lugar tranquilo e preparesse porque a mensagem não é das mais agradáveis.
+Atenção, esse é um post polêmico. Antes de iniciar o processo de leitura, esvaziem a mente, procurem um lugar tranquilo e preparem-se porque a mensagem não é das mais agradáveis.
 
 A resposta para a pergunta acima é: **Provavelmente não**.
 
@@ -22,7 +22,7 @@ Boa parte dos pequenos e médios negócios não precisam de um site. Sabe aquele
 
 Entenda o site como uma forma de marketing como outra qualquer. Você investe o dinheiro esperando que tenha um retorno posteriormente. 
 
-Quando uma padaria paga um carro de som para anunciar pelo bairro, isso gera um retorno de investimento correto? Quando uma escola faz panfletagem na entrada da prova do ENEM, isso também gera retorno. Agora, você já parou para mensurar se os 2 mil reais investidos naquele site da oficina mecânica geraram algum retorno para o seu cliente? Pois é, você não mensurou e o resultado não seria dos melhores mesmo.
+Quando uma padaria paga um carro de som para anunciar pelo bairro, isso gera um retorno de investimento, correto? Quando uma escola faz panfletagem na entrada da prova do ENEM, isso também gera retorno. Agora, você já parou para pensar se os 2 mil reais investidos naquele site da oficina do João gerou algum retorno para o seu cliente? Pois é, você não mensurou os resultados e eles não seriam dos melhores.
 
 *"Como assim Leandro, a internet toda está ali, são milhões de pessoas que podem ver o meu site e vir a se tornar um cliente! É o melhor marketing do MUNDO"*
 
@@ -30,7 +30,7 @@ Não é bem assim que a coisa funciona. Os usuários de fato estão ali. Milhõe
 
 Já pararam para pensar, quantas vezes vocês pesquisaram por cabelereiros, papelarias, oficinas, açougues, mercados e tantos outros pequenos e médios negócios da região na internet? 
 
-Provavelmente nunca certo? Em boa parte dos casos você simplesmente conhece o próprio bairro, em alguns você pega o seu carro e vai desbravar ou se for novo na vizinhança, pede dicas a vizinha pomposa do 502 (sem segundas intenções é claro).
+Provavelmente nunca certo? Em boa parte dos casos você simplesmente conhece o próprio bairro, em outros você pega o seu carro e vai desbravar ou se for novo na vizinhança, pede dicas a vizinha pomposa do 502 (sem segundas intenções é claro).
 
 OPA! Perae, parece que um jovem levantou a mão lá na última fileira.
 
