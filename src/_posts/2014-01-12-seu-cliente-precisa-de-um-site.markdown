@@ -75,6 +75,8 @@ Uma página no Google Plus ajuda muito. Ela vai mudar um pouco a forma como o se
 
 Crie também contas em diretórios de serviços locais como o [Apontador](http://www.apontador.com.br/) e [kekanto](http://br.kekanto.com/). Não precisa se limitar aos dois não, existem dezenas de outros, alguns free outros pagos, mas geralmente com um valor bem razoável.
 
+Uma fan page no facebook com um cadastro bem completo pode ser uma boa alternativa mobile, assim como ter cadastro no [foursquare](https://foursquare.com/). Procure cercar seus clientes por todas as pontas.
+
 E pronto. Provavelmente é o suficiente. Seu cliente não vai gastar nem cem reais ao mês e vai ter um retorno bem maior que um site de dois mil reais. Em cima disso você coloca o seu valor, pela excelente consultoria prestada.
 
 *Achei legal Leandro, mas meu cliente pretende investir mais um pouco de dinheiro. Como posso potencializar seus resultados?*
