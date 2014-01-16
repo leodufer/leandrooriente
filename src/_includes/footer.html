@@ -7,9 +7,11 @@
     <p><i>"The postings on this site are my own and don't necessarily represent my employer’s positions, strategies or opinions."</i></p>
     <p><i>"Os posts nesse site representam unicamente a minha opinião pessoal."</i></p>
     
-    {% if page.type != "post" %}
-    <p>Por <a href="{{site.author.googleplus}}" rel="me">{{site.author.name}}</a></p>
-    {% endif %}
-    <p class="copyright">Carinhosamente desenvolvido com <a href="http://jekyllrb.com/">Jekyll</a></p>
+    <p class="copyright">
+      Carinhosamente desenvolvido com <a href="http://jekyllrb.com/">Jekyll</a>
+      {% if page.type != "post" %}
+       por <a href="{{site.author.googleplus}}" rel="me">{{site.author.name}}</a>, desenvolvedor front-end
+      {% endif %}    
+    </p>
   </div>
 </footer>
