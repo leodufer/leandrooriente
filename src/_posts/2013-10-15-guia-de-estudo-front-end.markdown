@@ -259,6 +259,7 @@ Novidades semanais direto no seu email.
 - @guiiipontes
 - @jcemer
 - @eduagni
+- @leandrooriente
 
 ### Grupos no Facebook
 
