@@ -9,3 +9,16 @@
     var isLoading=false,fullLoad=false;page=1;var checkScrollPos=function(){var e=document.body.clientHeight;window.onscroll=function(t){var n=document.documentElement;var r=(window.pageYOffset||n.scrollTop)-(n.clientTop||0);if(e-r<1500){if(!isLoading&&!fullLoad){loadPosts()}}}};var loadPosts=function(){isLoading=true;$.get("/page"+ ++page+"/",function(e){var t=$(e).find("#posts");$("#more-posts").append(t);isLoading=false;if(page>=TOTAL_PAGES){fullLoad=true}})};window.onload=checkScrollPos()
   </script>
 {% endif %}
+
+<script type="text/javascript">
+var Swiftype = window.Swiftype || {};
+  (function() {
+    Swiftype.key = 'h2jveYNRaiP1zaxayTaA';
+
+    /** DO NOT EDIT BELOW THIS LINE **/
+    var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+    script.src = "//s.swiftypecdn.com/embed.js";
+    var entry = document.getElementsByTagName('script')[0];
+    entry.parentNode.insertBefore(script, entry);
+  }());
+</script>
