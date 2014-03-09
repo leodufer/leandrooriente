@@ -20,7 +20,7 @@ Mas será que você realmente precisa de clientes para ter um portfólio?
 
 ## Clientes? Quem precisa deles?
 
-Quando um cliente pergunta sobre o seu portfolio ele quer apenas validar que você é o cara certo para a necessidade dele. Apresentar trabalhos feitos para outras empresas é uma das formas de mostrar seu conhecimento, porém, existem várias outras formas sem precisar necessariamente de um cliente.
+Quando um cliente pergunta sobre seu portfolio ele quer apenas validar que você é o cara certo para a necessidade dele. Apresentar trabalhos feitos para outras empresas é uma das formas de mostrar seu conhecimento, porém, existem várias outras formas sem precisar necessariamente de um cliente.
 
 ### Reconstrua interfaces
 
