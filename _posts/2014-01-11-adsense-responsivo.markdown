@@ -8,6 +8,8 @@ tags:
 - SEO
 image_thumb: "/media/adsense-responsivo-thumb.jpg"
 image_highlight: "/media/adsense-responsivo.jpg"
+comments: [comment]
+
 ---
 
 Ano novo, layout novo, e ads espalhados por ai. Duas breves explicações.

@@ -5,6 +5,8 @@ description: ""
 tags: javascript 
 image_thumb: "/media/guia-comovente-thumb.jpg"
 image_highlight: "/media/guia-comovente.jpg"
+comments: [comment]
+
 ---
 
 Em agosto escrevi um post com um breve [guia para se tornar um profissional front end](/como-me-tornar-um-desenvolvedor-front-end/).

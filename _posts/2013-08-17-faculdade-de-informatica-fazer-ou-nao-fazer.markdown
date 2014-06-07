@@ -5,6 +5,8 @@ description: "Quero mostrar minha experiência atual com o mercado de trabalho e
 tags: faculdade
 image_thumb: "/media/classroom-thumb.jpg"
 image_highlight: "/media/classroom.jpg"
+comments: [comment]
+
 ---
 
 Ontem (15/03/13)  postei um texto sobre a minha opinião a respeito das faculdades de Informática no Brasil e o mercado de trabalho e hoje resolvi reescrever com base em tudo que aprendi nessas 24 horas. Recebi feedbacks incríveis e evoluí muito minha opinião.

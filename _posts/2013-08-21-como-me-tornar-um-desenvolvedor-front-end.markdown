@@ -8,6 +8,8 @@ tags:
 - curriculo
 image_thumb: "/media/developer-thumb.jpg"
 image_highlight: "/media/developer.jpg"
+comments: [comment]
+
 ---
 
 Minha visão de obrigações e diferenciais de desenvolvedores front end e algumas pequenas dicas a respeito.

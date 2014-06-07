@@ -8,6 +8,8 @@ tags:
 - negócios
 image_thumb: "/media/cliente-nao-precisa-site-thumb.jpg"
 image_highlight: "/media/cliente-nao-precisa-site.jpg"
+comments: [comment]
+
 ---
 
 Atenção, esse é um post polêmico. Antes de iniciar o processo de leitura, esvaziem a mente, procurem um lugar tranquilo e preparem-se, porque a mensagem não é das mais agradáveis.

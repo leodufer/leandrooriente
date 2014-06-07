@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Olá mundo"
+title: "Olá mundo"
 tags: general
 image_thumb: "/media/seja-bem-vindo-thumb.jpg"
 image_highlight: "/media/seja-bem-vindo.jpg"
+comments: [comment]
 ---
 
 Não curto muito formalidades, mas gostaria de apresentar quem vai manter esse blog ou pelo menos tentar.

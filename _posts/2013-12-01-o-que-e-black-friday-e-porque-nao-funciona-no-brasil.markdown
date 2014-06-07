@@ -5,6 +5,8 @@ description: ""
 tags: e-commerce
 image_thumb: "/media/blackfriday-thumb.jpg"
 image_highlight: "/media/blackfriday.jpg"
+comments: [comment]
+
 ---
 
 Resumidamente Black Friday é um dia próximo as festas de final de ano em que as lojas oferecem mega descontos para limpar os estoques e se preparar para o Natal. <br>

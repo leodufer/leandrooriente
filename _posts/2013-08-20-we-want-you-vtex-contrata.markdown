@@ -5,6 +5,8 @@ description: "Pessoal, como costumo comentar e postar com frequencia. Estamos co
 tags: general
 image_thumb: "/media/we-want-you-thumb.jpg"
 image_highlight: "/media/we-want-you.jpg"
+comments: [comment]
+
 ---
 
 Pessoal, como costumo comentar e postar com frequencia. Estamos contratando.

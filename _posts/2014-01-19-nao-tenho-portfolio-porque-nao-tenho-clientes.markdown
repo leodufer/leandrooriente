@@ -7,6 +7,8 @@ tags:
 - general
 image_thumb: "/media/nao-tenho-portfolio-thumb.jpg"
 image_highlight: "/media/nao-tenho-portfolio.jpg"
+comments: [comment]
+
 ---
 
 Uma das maiores dificuldades para quem está começando a carreira é em relação ao portfólio. Você se esforça, faz um layout lindo, coloca em prática tudo o que aprendeu mas na hora de trocar as imagens de placeholder pelos seus trabalhos... Nada. Você não tem nenhum trabalho para exibir.

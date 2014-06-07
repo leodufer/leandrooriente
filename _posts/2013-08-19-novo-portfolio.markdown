@@ -5,6 +5,8 @@ description: "Sempre que estou atolado de coisas para fazer e sem tempo para dor
 tags: general jekyll wordpress "digital ocean"
 image_thumb: "/media/thanks-all-the-fish-thumb.jpg"
 image_highlight: "/media/thanks-all-the-fish.jpg"
+comments: [comment]
+
 ---
  
 Sempre que estou atolado de coisas para fazer e sem tempo para dormir refaço o portfólio para me lembrar que poderia ser pior. Se estiver realmente muito lotado, paro tudo e estudo um pouco de fotografia. No final das contas tudo se resolve bem.

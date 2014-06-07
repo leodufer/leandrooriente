@@ -5,7 +5,15 @@
         <h3>
             <i class="ico-bubble"></i> Solte o verbo
         </h3>
-        <div id="disqus_thread" class="disqus-container"></div>
+        <div id="disqus_thread" class="disqus-container">
+            {% for comment in page.comments %}
+            <div itemscope itemtype="http://schema.org/UserComments">
+              <span itemprop="creator">{{ comment.author }}</span>
+              <time itemprop="commentTime" datetime="{{ comment.date }}">{{ comment.date }}</time>
+              <span itemprop="commentText">{{ comment.text }}</span>
+            </div>
+            {% endfor %}
+        </div>
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = '{{site.theme.comments.disqus.short_name}}'; // required: replace example with your forum shortname

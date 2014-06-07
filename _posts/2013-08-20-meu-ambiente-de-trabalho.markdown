@@ -5,6 +5,8 @@ description: "Seguindo a onda do Loop Infinito, resolvi fazer um post com o meu 
 tags: setup
 image_thumb: "/media/workstation-thumb.jpg"
 image_highlight: "/media/workstation.jpg"
+comments: [comment]
+
 ---
 
 Seguindo a onda do [Loop Infinito](http://setup.loopinfinito.com.br/), resolvi fazer um post com o meu ambiente de trabalho. Tanto para desenvolvimento quanto para fotografia.<br />

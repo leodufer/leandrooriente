@@ -5,6 +5,8 @@ description: "Tracei uma nova meta de vida. Aprender inglês de verdade em 1 ano
 tags: inglês
 image_thumb: "/media/joel-santana-thumb.jpg"
 image_highlight: "/media/joel-santana.jpg"
+comments: [comment]
+
 ---
 
 Tracei uma nova meta de vida. Aprender inglês de verdade em 1 ano. Tenho uma base razoavel a bastante tempo que me permite ler artigos, posts, documentações em inglês e compreender boa parte delas mas que não é o suficiente para conversar por 5 minutos com alguém fluente sem parecer um idiota.

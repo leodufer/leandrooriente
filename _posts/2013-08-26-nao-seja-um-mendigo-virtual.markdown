@@ -5,6 +5,8 @@ description: "Ultimamente tenho me deparado com uma situação deprimente nessa 
 tags: ux 
 image_thumb: "/media/mendigo-facebook-thumb.jpg"
 image_highlight: "/media/mendigo-facebook.jpg"
+comments: [comment]
+
 ---
 
 Ultimamente tenho me deparado com uma situação deprimente nessa tal de internet. Conseguiram levar o conceito de mendicância para o virtual com uma perfeição impressionante.
