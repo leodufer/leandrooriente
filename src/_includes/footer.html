@@ -1,17 +1,16 @@
 <footer class="footer-app">
   <div class="container">
-    <p>{{site.title}}, {{site.tagline}}</p>
-    {% include social.html %}
-    <p>Atualmente trabalhando no <a href="http://lab.vtex.com">VTEX Lab</a></p>
-    <p>Rio de Janeiro, RJ - 21 99461-7213 - <a href="mailto:{{site.author.email}}">{{site.author.email}}</a></p>
-    <p><i>"The postings on this site are my own and don't necessarily represent my employer’s positions, strategies or opinions."</i></p>
-    <p><i>"Os posts nesse site representam unicamente a minha opinião pessoal."</i></p>
-    
-    <p class="copyright">
-      Carinhosamente desenvolvido com <a href="http://jekyllrb.com/">Jekyll</a>
-      {% if page.type != "post" %}
-       por <a href="{{site.author.googleplus}}" rel="me">{{site.author.name}}</a>, desenvolvedor front-end
-      {% endif %}    
+    <h4>
+      <a href="{{site.author.googleplus}}" rel="me">{{site.author.name}}</a>, {{site.tagline}}
+    </h4>
+    <p>
+      Atualmente trabalhando no <a href="http://lab.vtex.com">VTEX Lab</a>
+    </p>
+    <p>
+      <a href="mailto:{{site.author.email}}">{{site.author.email}}</a>
+    </p>
+    <p>
+      <i>"Os posts nesse site representam unicamente a minha opinião pessoal."</i>
     </p>
   </div>
 </footer>

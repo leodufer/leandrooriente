@@ -1,35 +1,17 @@
 <header class="clearfix header-app">
-    <div class="pull-left">
-        {% if page.type == "post" %}
-        <p class="logo"><a href="/">{{ site.name }} <span>{{ site.tagline }}</span></a></p>
-        {% else %}
-        <h1 class="logo"><a href="/">{{ site.name }} <span>{{ site.tagline }}</span></a></h1>
-        {% endif %}
-    </div>
-
-    <nav class="pull-right" role="navigation">
-        <ul class="nav">
-            <li>
-                <a href="/about/">
-                    <i class="ico-profile"></i> Sobre
-                </a>
-            </li>
-            <li>
-                <a href="/contact/">
-                    <i class="ico-mail"></i> Contato
-                </a>
-            </li>
-            <li>
-                <a class="rss-nav" href="/feed.xml">
-                    <i class="ico-feed"></i> RSS
-                </a>
-            </li>
-        </ul>
-    </nav>
-    
-    <div class="pull-right">
-        <form>
-          <input type="text" id="st-search-input" class="st-search-input" />
-        </form>
-    </div>
+    {% if page.type == "post" %}
+    <p class="logo">
+        <a href="/">
+            <span class="site-title">{{ site.name }}</span>
+            <span class="site-description">{{ site.tagline }}</span>
+        </a>
+    </p>
+    {% else %}
+    <h1 class="logo">
+        <a href="/">
+            <span class="site-title">{{ site.name }}</span>
+            <span class="site-description">{{ site.tagline }}</span>
+        </a>
+    </h1>
+    {% endif %}
 </header>

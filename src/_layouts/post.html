@@ -18,27 +18,38 @@ type: post
     <div class="post-content"  itemprop="articleBody">
         {{ content }}
     </div> <!-- post-content --> 
-    <div class="post-author row" itemprop="author">
-      <div class="col-md-3 col-xs-3">
-        <img src="/media/profile.jpg" class="profile-pic img-circle" alt="">
-      </div>
-      <div class="col-md-9 col-xs-9">
-        <div class="author-details"  itemscope itemtype="http://schema.org/Person">
-          <a class="post-author-title" itemprop="name" href="{{site.author.googleplus}}">{{site.author.name}}</a>
+    
+    <div class="share-post clearfix">
+      {% include share-provider.html %}
+    </div>
 
-          <!--<div class="fb-follow" data-href="http://www.facebook.com/leandrooriente" data-colorscheme="light" data-layout="button_count" data-show-faces="true"></div>-->
-          <a href="https://twitter.com/leandrooriente" class="twitter-follow-button" data-show-count="true" data-lang="en">Follow @leandrooriente</a>
-          <div class="g-follow" data-annotation="bubble" data-height="20" data-href="//plus.google.com/100466667846971992298" data-rel="author"></div>
-
-          <p class="post-author-description">Desenvolvedor Front End, fotógrafo amador e consultor da vida.</p>
-
-          <div class="share-post">
-            {% include share-provider.html %}
+    <div class="newsletter clearfix">
+      <div id="mc_embed_signup">
+        <form action="http://leandrooriente.us8.list-manage1.com/subscribe/post?u=99f9dd75f012ce69bb7fe8d39&amp;id=38b28876a3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <h3>
+            <label for="mce-EMAIL">Nunca perca um post</label>
+          </h3>
+          <div class="catch-email clearfix">
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="seu@email.com" required>
+            <div style="position: absolute; left: -5000px;">
+              <input type="text" name="b_99f9dd75f012ce69bb7fe8d39_38b28876a3" tabindex="-1" value="">
+            </div>
+            <input type="submit" value="assinar" name="subscribe" id="mc-embedded-subscribe" class="button">
           </div>
-        </div>
+        </form>
+      </div>
+    </div>
+    
+    <div class="post-author" itemprop="author">
+      <div class="author-details"  itemscope itemtype="http://schema.org/Person">
+        <h3>
+          <img class="avatar" src="http://www.gravatar.com/avatar/6587f959972fd3149624a9762bbfc287?s=78&d=identicon"> 
+          <a class="post-author-title" itemprop="name" href="{{site.author.googleplus}}">{{site.author.name}}</a>
+        </h3>
+
+        <p class="post-author-description">Desenvolvedor Front End e consultor da vida.</p>
       </div>
     </div><!--post-author-->
-    <ins id="side-post-ad" class="adsbygoogle"></ins>
   </div>
 </div><!-- post-item -->
 {% include comments.html %}

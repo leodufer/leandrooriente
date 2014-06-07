@@ -6,37 +6,32 @@ type: static
 ref: index
 ---
 
-	<div id="home">
+	<div class="container">
 		<div class="posts" id="posts" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
 		{% for post in paginator.posts %}
 			<article class="post-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6">
-							<a href="{{ post.url }}/"><img itemprop="image" src="{{ post.image_highlight }}" alt="{{ post.title }}" class="img-rounded img-responsive post-highlight-image"></a>
-						</div>
-						<div class="col-md-6">
-							<header class="post-header clearfix" itemprop="headline">
-								<h2 class="post-title">
-									<a itemprop="url" href="{{ post.url }}/">
-										<span itemprop="name">{{ post.title }}</span>
-									</a>
-								</h2>
-							</header>
-							<div class="post-content">
-								<div class="post-excerpt" itemprop="text">
-								{% if post.content contains '<!--more-->' %}
-									{{ post.content | split:'<!--more-->' | first }}
-								{% else %}
-									{{ post.content }}
-								{% endif %}
-								</div> <!-- post-excerpt -->
-								<p class="post-date">{{ post.date | date_to_string }}</p>
-								<meta itemprop="datePublished" content="{{ post.date  | date_to)xmlschema }}"/>
-							</div> <!-- post-content --> 
-						</div>
-					</div>
-				</div>
+						
+				<header class="post-header clearfix" itemprop="headline">
+					<h2 class="post-title">
+						<a itemprop="url" href="{{ post.url }}/">
+							<span itemprop="name">{{ post.title }}</span>
+						</a>
+					</h2>
+					<p class="post-date">{{ post.date | date_to_string }}</p>
+					<meta itemprop="datePublished" content="{{ post.date  | date_to)xmlschema }}"/>
+				</header>
+				<div class="post-content">
+					<a href="{{ post.url }}/"><img itemprop="image" src="{{ post.image_highlight }}" alt="{{ post.title }}" class="img-rounded img-responsive post-highlight-image"></a>
+					
+					<div class="post-excerpt" itemprop="text">
+					{% if post.content contains '<!--more-->' %}
+						{{ post.content | split:'<!--more-->' | first }}
+					{% else %}
+						{{ post.content }}
+					{% endif %}
+					</div> <!-- post-excerpt -->
+				</div> <!-- post-content --> 
+					
 			</article><!-- post-item -->
 		{% endfor %}
 		<div id="more-posts"></div>
