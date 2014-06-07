@@ -1,9 +1,4 @@
 _site
 .DS_Store
-.jekyll-assets-cache
-node_modules
-bower_components
-build
-build-raw
-.tmp
-dist
+.sass-cache
+Gemfile.lock

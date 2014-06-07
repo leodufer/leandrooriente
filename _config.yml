@@ -1,9 +1,8 @@
 name: Leandro Oriente
 markdown: redcarpet
-pygments: true
 permalink: /:title
 paginate: 5
-port: 80
+port: 9001
 
 title : Leandro Oriente
 tagline: Desenvolvedor Front End
@@ -16,6 +15,21 @@ author :
   500px : http://500px.com/leandrooriente
   linkedin : http://www.linkedin.com/in/leandrooriente
   instagram : http://instagram.com/leandrooriente
+
+markdown: kramdown
+kramdown:
+  use_coderay: true
+  parse_block_html: true
+
+highlighter: pygments
+
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass
+
+sass:
+  sass_dir: assets/stylesheet
+  style: :compressed
 
 production_url : http://leandrooriente.com
 url : http://leandrooriente.com

@@ -1,0 +1,401 @@
+---
+---
+
+.clearfix
+  &:after
+    content: "."
+    display: block
+    clear: both
+    visibility: hidden
+    line-height: 0
+    height: 0
+  display: inline-block
+
+*
+  html .clearfix
+    height: 1%
+  padding: 0
+  margin: 0
+  box-sizing: border-box
+
+body
+  background: #f4f4f4
+  color: #333
+  font-family: 'Cantarell', serif
+
+h1, h2, h3, h4
+  font-family: 'Fjalla One', "Helvetica Neue", Helvetica, Arial
+  font-weight: normal
+  text-transform: uppercase
+
+h1
+  font-size: 70px
+  line-height: 80px
+  margin: 100px 0 45px
+
+h2
+  font-size: 58px
+  line-height: 65px
+  margin: 75px 0 45px
+
+h3
+  font-size: 42px
+  line-height: 50px
+  margin: 50px 0 45px
+
+h4
+  font-size: 34px
+  line-height: 40px
+  margin: 30px 0 30px
+
+a
+  text-decoration: none
+  color: #2980b9
+  &:hover
+    background: #2980b9
+    color: #fff
+
+p
+  font-size: 22px
+  line-height: 32px
+  margin: 30px 0 15px
+
+ul
+  margin: 30px 0 15px 30px
+  li
+    font-size: 22px
+    line-height: 28px
+    margin: 0 0 10px
+
+.logo
+  position: fixed
+  top: 0
+  left: 0
+  z-index: 9
+  margin: 0
+  max-width: 160px
+  text-transform: uppercase
+  text-align: center
+  font-family: 'Cantarell', serif
+  .site-title
+    display: block
+    background: #c0392b
+    padding: 15px
+    color: #fff
+    font-weight: bold
+    font-size: 21px
+    line-height: 24px
+  .site-description
+    display: block
+    color: #999
+    font-size: 10px
+    line-height: 14px
+    margin-top: 5px
+    padding: 0 18px
+  a:hover
+    color: #fff
+    background: none
+
+.container
+  width: 100%
+  max-width: 700px
+  margin: 0 auto
+
+.posts .post-title
+  font-size: 70px
+  line-height: 80px
+
+.post-item
+  margin: 100px 0 300px
+  .post-title
+    margin-bottom: 0
+  .post-date
+    margin: 15px 0 45px
+    font-size: 22px
+    text-transform: uppercase
+    color: #ccc
+  img
+    border: 8px solid #75b9e7
+    display: block
+    height: auto
+    max-width: 100%
+  a[href^="http"]:after
+    font-family: 'icomoon'
+    speak: none
+    font-style: normal
+    font-weight: normal
+    font-variant: normal
+    text-transform: none
+    line-height: 1
+    font-size: 14px
+    -webkit-font-smoothing: antialiased
+    -moz-osx-font-smoothing: grayscale
+    content: "\e605"
+    margin-left: 5px
+
+.post-page
+  margin-bottom: 0
+  overflow: hidden
+
+.not
+  color: #999
+  text-decoration: line-through
+
+.post-author
+  margin: 70px 0 20px
+  padding: 35px
+  background: #fff
+  border: 1px solid #dedede
+  border-radius: 20px
+  h3
+    margin: 0
+    a
+      color: #333
+      position: relative
+      top: -21px
+      &:hover
+        color: #3498db
+        background: none
+  .avatar
+    border: 0
+    border-radius: 50%
+    display: inline-block
+    margin-right: 10px
+
+.newsletter
+  .catch-email
+    float: left
+    padding: 35px
+    background: #fff
+    border: 1px solid #dedede
+    border-radius: 20px
+    border-top-left-radius: 0
+  .email
+    padding: 15px
+    border: 1px solid #dedede
+    outline: 0
+    font-size: 22px
+    min-width: 400px
+    margin-right: 10px
+  .button
+    padding: 15px 40px 13px
+    font-size: 22px
+    background: #c0392b
+    border: 0
+    outline: 0
+    border-bottom: 4px solid #43140f
+    border-radius: 5px
+    position: relative
+    top: -1px
+    color: #fff
+    cursor: pointer
+
+.share-post h3, .post-comments h3, .newsletter h3
+  margin-bottom: 15px
+
+.share-post
+  display: block
+  .ico-smiley
+    -webkit-animation: spin 4s ease-out infinite
+    -moz-animation: spin 4s ease-out infinite
+    animation: spin 4s ease-out infinite
+
+.disqus-container
+  background: #fff
+  padding: 35px
+  border-radius: 20px
+  border-top-left-radius: 0
+  border: 1px solid #dedede
+
+.social-container
+  float: left
+  background: #fff
+  padding: 35px
+  border-radius: 20px
+  border-top-left-radius: 0
+  border: 1px solid #dedede
+
+.fb-share-button, .twitter-share-button, .g-plus-share-button
+  width: 95px !important
+
+.fb-share-button
+  top: -5px
+
+.video-container
+  position: relative
+  padding-bottom: 56.25%
+  padding-top: 30px
+  height: 0
+  overflow: hidden
+  margin-bottom: 50px
+  iframe, object, embed
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+
+.footer-app
+  color: #ecf0f1
+  text-align: center
+  padding: 70px 0
+  margin-top: 100px
+  background: #2c3e50
+  h4
+    font-size: 24px
+    line-height: 32px
+    font-weight: bold
+    margin: 0 0 15px
+  p
+    font-size: 18px
+    line-height: 24px
+    margin: 0
+  a
+    color: #ecf0f1
+    font-weight: bold
+    &:hover
+      color: #3498db
+      background: none
+
+.socials
+  margin: 0 0 10px
+  padding: 0
+  list-style: none
+  a
+    font-weight: normal
+    color: #fff
+  li
+    font-size: 18px
+    display: inline-block
+    background: #999
+    i
+      margin-right: 4px
+
+.pagination
+  position: absolute
+  z-index: -1
+  left: -3000px
+
+@-moz-keyframes spin
+  45%
+    -moz-transform: rotate(0)
+  48%
+    -moz-transform: rotate(15deg)
+  52%
+    -moz-transform: rotate(-15deg)
+  55%
+    -moz-transform: rotate(0deg)
+
+
+@-webkit-keyframes spin
+  45%
+    -webkit-transform: rotate(0)
+  48%
+    -webkit-transform: rotate(15deg)
+  52%
+    -webkit-transform: rotate(-15deg)
+  55%
+    -webkit-transform: rotate(0deg)
+
+
+@keyframes spin
+  45%
+    transform: rotate(0)
+  48%
+    transform: rotate(15deg)
+  52%
+    transform: rotate(-15deg)
+  55%
+    transform: rotate(0deg)
+
+
+-moz-keyframes slideleft
+  0%
+    -moz-transform: translate(-160px, 0)
+  60%
+    -moz-transform: translate(-160px, 0)
+  100%
+    -moz-transform: translate(0, 0)
+
+@-webkit-keyframes slideleft
+  0%
+    -webkit-transform: translate(-160px, 0)
+  60%
+    -webkit-transform: translate(-160px, 0)
+  100%
+    -webkit-transform: translate(0, 0)
+
+
+@keyframes slideleft
+  0%
+    transform: translate(-160px, 0)
+  60%
+    transform: translate(-160px, 0)
+  100%
+    transform: translate(0, 0)
+
+
+@media (min-width: 1100px)
+  .logo
+    -webkit-animation: slideleft 1s cubic-bezier(0.55, 0.055, 0.675, 0.19)
+    -moz-animation: slideleft 1s cubic-bezier(0.55, 0.055, 0.675, 0.19)
+    animation: slideleft 1s cubic-bezier(0.55, 0.055, 0.675, 0.19)
+
+@media (max-width: 1100px)
+  .header-app
+    display: block
+  .logo
+    position: relative
+    margin: 0 auto
+  .container
+    padding: 0 30px
+
+@media (max-width: 760px)
+  .post-item
+    margin: 50px 0 150px
+  .newsletter
+    .email, .button
+      width: 100%
+      margin-bottom: 15px
+
+@media (max-width: 420px)
+  h1, .posts .post-title
+    font-size: 50px
+    line-height: 60px
+    margin: 60px 0 30px
+  h2
+    font-size: 38px
+    line-height: 44px
+    margin: 50px 0 30px
+  h3
+    font-size: 32px
+    line-height: 38px
+    margin: 40px 0 30px
+  h4
+    font-size: 28px
+    line-height: 32px
+    margin: 30px 0 30px
+  p, ul li
+    font-size: 18px
+    line-height: 26px
+  .social-container
+    float: none
+  .newsletter
+    .catch-email
+      float: none
+    .email
+      min-width: 0
+  .post-author
+    text-align: center
+    h3 a
+      top: 0
+    .avatar
+      display: block
+      margin: 0 auto 15px
+  .disqus-container
+    padding: 0
+    background: none
+    border: 0
+
+@import icons
+@import syntax
