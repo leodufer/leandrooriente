@@ -23,7 +23,7 @@ Passei boa parte da minha adolescência jogando. Tinha amigos, um clan(equipe), 
 
 Um dia notei que estava perdendo muito tempo com o Runescape (jogo) e resolvi dar um basta. Peguei todo o meu patrimônio no jogo doei e depois dei minha conta.
 
-Porém continuei disperdiçando 5 ou 6 horas por dia na internet. Comecei a jogar alguns [outros jogos](http://battlelog.battlefield.com/bf3/soldier/leandrooriente/stats/479146962/pc/) e a ter interesse por edição de imagens. Jogava umas 4 horas e aprendia algo novo no Photoshop na hora restante.
+Porém continuei desperdiçando 5 ou 6 horas por dia na internet. Comecei a jogar alguns [outros jogos](http://battlelog.battlefield.com/bf3/soldier/leandrooriente/stats/479146962/pc/) e a ter interesse por edição de imagens. Jogava umas 4 horas e aprendia algo novo no Photoshop na hora restante.
 
 Essa hora restante foi o suficiente para me garantir um estágio, que me direcionou a programação queviria a se tornar meu ganha pão.
 
