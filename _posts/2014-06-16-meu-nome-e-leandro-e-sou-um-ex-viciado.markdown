@@ -9,7 +9,7 @@ comments: [comment]
 
 ---
 
-Comecei meu vício a aproximadamente 8 anos. No início parecia legal, todos os meus amigos estavam usando e achei que não me faria muito mal. Estava enganado.
+Comecei meu vício há aproximadamente 8 anos. No início parecia legal, todos os meus amigos estavam usando e achei que não me faria muito mal. Estava enganado.
 
 <!--more-->
 
