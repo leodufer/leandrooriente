@@ -41,7 +41,7 @@ Daqui em diante vou mostrar algumas mudanças que fiz nos últimos anos, quais p
 
 Por padrão todo aplicativo é extremamente carente e vai demandar sua atenção a cada 10 minutos. Principalmente se for uma rede social ou algum joguinho. E nada mais improdutivo do que ser interrompido de 10 em 10 minutos com um bip ou o ronco do seu celular vibrando sobre a mesa. Então desativei todas as notificações do meu celular com exceção de mensagens diretas (nada de grupos) do Whatsapp, Facebook Messenger e SMS.
 
-Meu celular parou de ser roncar o dia todo na mesa e passou a me alertar duas ou três vezes por dia quando alguém realmente estava falando diretamente comigo.
+Meu celular parou de roncar o dia todo na mesa e passou a me alertar duas ou três vezes por dia quando alguém realmente estava falando diretamente comigo.
 
 ### Notificações do facebook
 
