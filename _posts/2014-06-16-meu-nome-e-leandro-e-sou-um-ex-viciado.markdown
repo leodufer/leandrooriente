@@ -25,7 +25,7 @@ Um dia notei que estava perdendo muito tempo com o Runescape (jogo) e resolvi da
 
 Porém continuei desperdiçando 5 ou 6 horas por dia na internet. Comecei a jogar alguns [outros jogos](http://battlelog.battlefield.com/bf3/soldier/leandrooriente/stats/479146962/pc/) e a ter interesse por edição de imagens. Jogava umas 4 horas e aprendia algo novo no Photoshop na hora restante.
 
-Essa hora restante foi o suficiente para me garantir um estágio, que me direcionou a programação queviria a se tornar meu ganha pão.
+Essa hora restante foi o suficiente para me garantir um estágio, que me direcionou a programação que viria a se tornar meu ganha pão.
 
 Anos se passaram e consegui distruibuir melhor minhas horas online. Agora tinha uma profissão e precisava estudar com mais frequência. Passei a jogar bem menos e a dedicar boa parte do meu dia ao estudo. Acompanhado obviamente do facebook, blogs de humor idiota, youtube. Eram raros os momentos em que estava 100% focado em algo importante.
 
