@@ -1,140 +1,82 @@
 ---
 layout: post
-title:  "Olá. Meu nome é Leandro e sou um ex-viciado"
-description: "Comecei meu vício a aproximadamente 8 anos. No início parecia legal, todos os meus amigos estavam usando e achei que não me faria muito mal. Estava enganado."
-tags: social media, general
-image_thumb: "/media/vicio-no-facebook-thumb.jpg"
-image_highlight: "/media/vicio-no-facebook.jpg"
+title:  "Como aprender inglês"
+description: "Tracei uma nova meta de vida. Aprender inglês de verdade em 1 ano. Tenho uma base razoavel a bastante tempo que me permite ler artigos, posts, documentações em inglês e compreender boa parte delas mas que não é o suficiente para conversar por 5 minutos com alguém fluente sem parecer um idiota."
+tags: inglês
+image_thumb: "/media/joel-santana-thumb.jpg"
+image_highlight: "/media/joel-santana.jpg"
 comments: [comment]
 
 ---
 
-Comecei meu vício a aproximadamente 8 anos. No início parecia legal, todos os meus amigos estavam usando e achei que não me faria muito mal. Estava enganado.
+Tracei uma nova meta de vida. Aprender inglês de verdade em 1 ano. Tenho uma base razoavel a bastante tempo que me permite ler artigos, posts, documentações em inglês e compreender boa parte delas mas que não é o suficiente para conversar por 5 minutos com alguém fluente sem parecer um idiota.
 
 <!--more-->
 
-Meu primeiro contato foi através do MSN e de jogos online (MMORPG). Em pouco tempo já era adepto do Orkut e logo já fazia uso regular de quase todos os outros. Twitter, facebook, whatsapp, youtube, blogs de humor...
+Comecei no início do ano a pesquisar a melhor forma aprender inglês e achei muitas opções diferentes. Vou comentar sobre algumas e mostrar o que tem funcionado comigo.
 
-Cheguei a investir de 10 a 12 horas diárias nisso. Conheci muita gente que estava na mesma situação e as pessoas não pareciam se importar tanto. Mas de um tempo para cá resolvi que era hora de parar. Ainda não estou limpo, mas já tive uma melhora de vida significativa.
+## O que não funcionou por enquanto
 
-## Origem do vício
+### Cursos de inglês
 
-Passei boa parte da minha adolescência jogando. Investia muito tempo nisso. Tinha amigos, um clan(equipe), reputação, deveres... Investia 5 horas do dia jogando. Em paralelo navegava no Orkut e batia papo pelo msn e Mirc. Digo que por uns 3 anos ou mais, minha rotina semanal era essa.
+Como comentei, minha meta é conseguir ter uma base razoável para me comunicar bem o suficiente para trabalhar em equipe ou viver em um país que tenha o inglês como idioma principal em um ano.
 
-Um dia notei que estava perdendo muito tempo com o Runescape (jogo) e resolvi dar um basta. Peguei todo o meu patrimônio no jogo doei e depois dei minha conta.
+A maioria das intituições convencionais tem cursos de 18 meses ou mais de duração. O que estrapola um pouco meu prazo. Além disso eu teria que estudar com algumas dezenas de alunos e sou tímido demais. Provavelmente meu rendimento seria abaixo do esperado.
 
-Porém continuei disperdiçando 5 ou 6 horas por dia na internet. Comecei a jogar alguns [outros jogos](http://battlelog.battlefield.com/bf3/soldier/leandrooriente/stats/479146962/pc/) e a ter interesse por edição de imagens. Jogava umas 4 horas e aprendia algo novo no Photoshop na hora restante.
+Outro problema que tenho é em relação ao meu horário. Como o horário na empresa é flexível, gosto de chegar mais tarde e sair mais tarde para evitar pegar trânsito e seria difícil de encaixar o curso nesses intervalos.
 
-Essa hora restante foi o suficiente para me garantir um estágio, que me direcionou a programação que em alguns anos viria a se tornar meu ganha pão.
+### Cursos no exterior
 
-Anos se passaram e consegui distruibuir melhor minhas horas online. Agora tinha uma profissião e precisava estudar com mais frequência. Passei a jogar bem menos e a dedicar boa parte do meu dia ao estudo. Acompanhado obviamente do facebook, blogs de humor idiota, youtube. Eram raros os momentos em que estava 100% focado no estudo.
+Pesquisei durante um bom tempo por cursos no exterior, mas no final cheguei a conclusão de que o investimento é alto demais. Provavelmente é a forma mais eficiente e rápida de se aprender, já que estudando no curso ou não você estaria em contato com o idioma 24 horas por dia. Mas os valores não são dos mais amigáveis.
 
-## Tempos modernos
+### Cursos online
 
-De fato perdia muito tempo em coisas fúteis e investia pouco em coisas que realmente trariam algum valor para a minha vida. Isso perdurou por anos e piorou bastante com os smartphones e internet móvel. Foi quando conheci pessoas bacanas, que me mostraram como sair dessa. 
+Pesquisei muito pouco a respeito. Procurei por depoimentos reais na internet e não achei muita coisa e a publicidade dos cursos não me agradou muito. Fiquei receoso e descartei. Talvez faça durante um mês no decorrer do ano só para ver como funciona, mas por enquanto não entrou no meu fluxo de estudo.
 
-Daqui em diante vou mostrar algumas mudanças que fiz no últimos anos, quais problemas resolveram e o que notei que melhorou.
+### Podcasts
 
-### Notificações no celular
+Na verdade eu não tive nenhuma experiência com podcasts ainda. Devo começar a escutar alguns na ida e volta do trabalho. Não tenho uma opinião formada sobre, mas já recebi boas indicações.
 
-Por padrão todo aplicativo é extremamente carente e vai demandar sua atenção a cada 10 minutos. Principalmente se for uma rede social ou algum joguinho. E nada mais improdutivo do que ser interrompido de 10 em 10 minutos com um bip ou o ronco do seu celular vibrando sobre a mesa. Então desativei todas as notificações do meu celular com exceção de mensagens diretas do Whatsapp, Facebook Messenger e SMS.
+## O que está funcionando
 
-No caso do Whatsapp tenho alguns grupos mutados eternamente que olho vez ou outra e não recebo notificações de mensagens de nenhum grupo.
+### Aulas particulares
 
-Dentre o grupo de aplicativos com notificações desativadas estão o Instagram, Facebook, Emails (falarei deles mais tarde) e Twitter.
+Estava quase certo de que não seria viável ter aulas particulares com algum professor nativo devido ao custo. Porém depois de algumas pesquisas achei o Jonathan. Ele é britânico e atende na Zona Sul do RJ. Como minha empresa fica em Botafogo, consegui ter aulas dentro da própria empresa com mais dois amigos o que torna o custo mais em conta.
 
-Meu celular parou de ser roncar o dia todo na mesa e passou a me alertar duas ou três vezes por dia quando alguém realmente estava falando diretamente comigo.
+Estou gostando demais e tem funcionado muito bem. Tanto que pretendo dobrar o investimento.
 
-### Notificações do facebook
+### Aplicativos 
 
-Meu facebook não apita. Sério! Quando alguém comenta na foto do churrasco do final de semana enquanto estou lendo algum artigo ele simplesmente adiciona um número (1) na abinha e pronto. Às vezes eu noto na hora, outras levo alguns minutos, em alguns casos só vejo horas depois, mas não vou perder a linha de raciocínio por conta de um comentário. 
+Por enquanto só utilizo o Duolingo e estou gostando muito. Ele vai fazendo uns exercícios repetitivos e isso te força a pegar mais vocabulário. No início é bem bobinho mas no decorrer do tempo vai ficando mais avançado. Sem contar que ele vai retirando alguns níveis que você conquistou a um tempo para que possa reforçar o que aprendeu.
 
-Aliás, vou dar um jeito de nem isso aparecer mais. Além disso desativei 90% das possíveis notificações do facebook.
+A comunidade por trás do game é bem forte também. Caso tenha dúvida em uma questão basta olhar o histórico dela que tem gente explicando detalhadamente a resposta correta.
 
-### *Lixeira*{:.not} Feed do facebook
+Não conheço nenhum outro bom aplicativo, mas casos tenha uma sugestão, fique a vontade para comentar.
 
-Morreu. O feed do meu facebook não existe mais. Instalei [essa extensão no Chrome](https://chrome.google.com/webstore/detail/kill-news-feed/hjobfcedfgohjkaieocljfcppjbkglfd) e ele simplesmente não aparece mais.
+### Séries e filmes com legenda em inglês
 
-![Morte do feed](/media/facebook-feed.jpg)
+Sempre gostei muito de séries e filmes. Como baixo boa parte deles (ainda não sou um adepto do Netflix) sempre vejo com audio em inglês e legenda em português.
 
-Meu facebook se resume a notificações de interações, chat e algum status novo sobre algo bacaninha que pesquei pela internet.
+De um tempo pra cá comecei a assistir mudando a legenda para inglês. No início é um pouco estranho, mas com o tempo fui me acostumando. Vez ou outra preciso parar para entender determinada palavra chave ou expressão, mas no geral da para entender bem e sem muitas pausas.
 
-Quando quero me dar ao luxo de perder tempo no facebook acesso pelo celular, onde geralmente estou mais disposto a perder tempo mesmo.
+Esse exercício além de divertido, já que assistia os filmes e episódios de uma forma ou de outra é muito eficiente para pegar a pronúncia das palavras.
 
-Um dos maiores ganhos de produtividade que tive. Qualquer clique na aba do facebook era uma roleta russa de tempo. Podia navegar por 2 minutos e voltar ao que estava fazendo, como podia levar 2 horas debatendo sobre o carisma da Dilma ou como o BBB 6 foi infinitamente melhor que o último.
+### Setar como inglês o idioma dos softwares e aplicativos
 
+Já tinha o costume de usar alguns sistemas e aplicativos em inglês, principalmente quando não tinha opção de usar em português ou quando os tutoriais e documentações a respeito eram em inglês. 
 
-### Última visualização e geolocalização de chats
+Agora setei o inglês como idioma primário de qualquer sistema que uso. Inclusive do Sistema Operacional do notebook e do smartphone, conta do google, jogos de vídeo game, aplicativos do celular... Tudo mesmo.
 
-Outro recurso que aboli da minha vida são as informações sobre a minha disponibilidade. Desativei a ultima visualização do Whatsapp e do Chat do facebook além de remover informações sobre a minha localização.
+Isso é útil pois ganho vocabulário técnico. 
 
-Não estou disponível para todo mundo durante o meu dia e não quero ser alvo de cobranças. As vezes li algo, mas simplesmente não estou com tempo para responder ou resolver na hora.
+### Sites de bate papo
 
-### Filtros de emails e controle de acesso
+Usei durante um dia o Omegle (com filtro de porn ligado) e gostei muito do resultado. Conversei durante um tempo com uma egípicia mas sem vídeo. Em breve quero começar a conversar pela webcam mesmo.
 
-Dei unsubscribe em praticamente tudo que me mandava emails periodicamente. Lojas virtuais, redes sociais, aplicativos, blogs... Tudo. No email do trabalho liguei alguns filtros para não receber determinados tipos de mensagem.
-
-No final das contas parei de receber 200 emails por dia e passei a receber 10.
-
-Além disso desativei as notificações de email do celular e passei a acessar em determinados intervalos do dia. Todos conhecem muito bem a dinâmica do email e sabem que não é algo instântaneo como um chat, logo não preciso dar tanta prioridade a eles.
-
-Deixei de ser interrompido periodicamente por emails do Groupon, fotos engraçadas em que fui marcado no facebook ou um incrível tweet da @dilmabolada no twitter e passei a resolver o que preciso relacionado a emails duas ou três vezes por dia e de uma vez só.
-
-### Roleta do unfollow 
-
-Tenho o costume de dar unfollows. Em qualquer coisa. Comentei a pouco sobre alguns emails periódicos mas faço isso no twitter, instagram, facebook...
-
-Sempre que vejo algo que não agrega nada, faço uma pequena avaliação no perfil da pessoa e vejo o que ela tem a oferecer de interessante. Se em 10 posts não achar nada, dou unfollow.
-
-Isso me poupa um tempo absurdo em redes sociais. Não preciso pescar tanto para achar algo que preste. E isso se aplica a qualquer um. Desde de o amigo novo que conheci numa festa até a minha mãe. To brincando mãe, eu vejo seus posts.
-
-### Aposta de bar
-
-Não basta chamar sua atenção na aula ou na reunião de trabalho. Seu celular vai vibrar loucamente durante aquela conversa de bar marota de final de semana. E não só o seu. O de todos.
-
-![Aposta de bar](/media/bar-celular.jpg)
-
-Não vai demorar muito metade da mesa vai estar com o celular em uma mão e o copo na outra e no final das contas vão abrir um grupo no Whatsapp e conversar por lá mesmo.
-
-Então passei a fazer uma aposta. No início do encontro, todos colocam os celulares empilhados na mesa. O primeiro que retirar o celular da pilha paga a conta toda.
-
-Sempre que fizemos essa aposta a conversa rendeu por horas e todos se divertiram a noite toda. Sério, da pra rir na vida real.
-
-### Aposentando o telefone fixo
-
-Retirei o telefone fixo do meu quarto e não atendo praticamente nenhuma ligação residencial.
-
-Fiz isso depois que notei que de 10 ligações atendidas, 3 eram de algum banco oferecendo um novo benefício fantástico, 3 eram de uma operadora de celular com um recurso mais fantástico que os do banco, 2 eram engano, uma era de alguém sequestrando o filho que não tenho e a última era engano.
-
-### Troque meia hora de facebook por meia hora de um bom livro
-
-Sigo algumas pessoas legais no facebook e só curto fanpages que postem coisas que me agradam. A regra do unfollow se aplica da mesma forma para o unlike. Porém, ainda assim perco muito tempo com alguns posts que não tem valor nenhum na minha vida.
-
-Então peguei o tempo que levo no ônibus para ir e voltar do trabalho, que era dedicado ao facebook e passei a ler. Já li uns três livros desde que fiz essa troca e não me arrependo.
-
-Você provavelmente não lembra daquele post da sua prima sobre a corridinha matinal da Sabrina Sato na lagoa, mas provavelmente vai lembrar por anos de um [bom livro](http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=81519326&idlink=8787&adtype=pla&gclid=CKbew_HC_b4CFW4Q7Aod2h4ACg).
-
-### Modo avião
-
-Colocar o celular em modo avião antes de dormir se tornou quase tão comum quanto escovar os dentes. 
-
-Ser interrompindo enquanto trabalha ou estuda é ruim, porém nada se compara a ser interrompido enquanto dorme. 
-
-Ninguém pode dormir bem com um celular embaixo do travesseiro vibrando às 04:15 da manhã porque seu amigo bêbado lembrou que te *considera pra caralho*.
+Gostei do Omegle justamente por conta do filtro. Quem já usou o Chatroullete sabe que a cada 5 chats, 4 tem alguém se masturbando.
 
 ## Conclusão
 
-O conceito básico que aprendi nesse último ano graças ao conselho do [oráculo da montanha (Rodrigo Muniz)](https://medium.com/@rdmuniz) foi que, ser atropelado por centenas de notificações diárias é algo terrivelmente ruim. Principalmente quando boa parte delas não merecem sua atenção.
+Considero que estou evoluindo bem rápido e com um investimento bem razoável. Como tenho algumas particularidades como o horário quebrado, timidez e prazo curto procurei por métodos alternativos. 
 
-Você precisa consumir o que de fato te interessa e quando julgar necessário.
-
-É claro que nem todas as sugestões se aplicam a todo mundo. Eu particularmente estou perto do meu último passo que vai ser desativar o facebook e dar unfollow no twitter em qualquer perfil que não esteja relacionado ao meu trabalho. Mas ainda não criei coragem.
-
-Os benefícios são claros. Aumento da produtividade, melhor comunicação com as pessoas que realmente interessam, mais tempo livre para fazer algo que agregue valor a sua vida, menos estresse. Mais vida de verdade.
-
-![Vida de verdade](/media/vida-verdade.jpg)
-
-### Leituras complementares
-
-- [Cometi Facebookcídio](http://papodehomem.com.br/cometi-facebookcidio/)
-- [Somos adultos, certo? A geração social media](http://papodehomem.com.br/somos-adultos-certo-a-geracao-social-media/)
+Pretendo juntar uma graninha para passar cerca de 1 mês no final do ano em um país com inglês como lingua oficial. Talvez fazer um curso para concretizar o que aprendi durante o ano. Não tenho como usuar como forma oficial de estudo já que o investimento é grande, mas posso tentar fechar esse primeiro ciclo assim.
