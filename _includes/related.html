@@ -6,9 +6,6 @@
       <li>
         <a href="{{ post.url }}">
           {{ post.title }}
-          {% for tags in post.tags %}
-            <span class="label label-default">{{ tags }}</span>
-          {% endfor %}
         </a>
       </li>
       {% endfor %}
