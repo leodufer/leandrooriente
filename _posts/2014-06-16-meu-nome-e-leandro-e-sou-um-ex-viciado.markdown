@@ -9,7 +9,7 @@ comments: [comment]
 
 ---
 
-Comecei meu vício a aproximadamente 8 anos. No início parecia legal, todos os meus amigos estavam usando e achei que não me faria muito mal. Estava enganado.
+Comecei meu vício há aproximadamente 8 anos. No início parecia legal, todos os meus amigos estavam usando e achei que não me faria muito mal. Estava enganado.
 
 <!--more-->
 
@@ -19,37 +19,33 @@ Cheguei a investir de 10 a 12 horas diárias nisso. Conheci muita gente que esta
 
 ## Origem do vício
 
-Passei boa parte da minha adolescência jogando. Investia muito tempo nisso. Tinha amigos, um clan(equipe), reputação, deveres... Investia 5 horas do dia jogando. Em paralelo navegava no Orkut e batia papo pelo msn e Mirc. Digo que por uns 3 anos ou mais, minha rotina semanal era essa.
+Passei boa parte da minha adolescência jogando. Tinha amigos, um clan(equipe), reputação, deveres... Investia 5 horas do dia jogando. Em paralelo navegava no Orkut e batia papo pelo msn e Mirc. Por uns 3 anos ou mais, minha rotina semanal era essa.
 
 Um dia notei que estava perdendo muito tempo com o Runescape (jogo) e resolvi dar um basta. Peguei todo o meu patrimônio no jogo doei e depois dei minha conta.
 
-Porém continuei disperdiçando 5 ou 6 horas por dia na internet. Comecei a jogar alguns [outros jogos](http://battlelog.battlefield.com/bf3/soldier/leandrooriente/stats/479146962/pc/) e a ter interesse por edição de imagens. Jogava umas 4 horas e aprendia algo novo no Photoshop na hora restante.
+Porém continuei desperdiçando 5 ou 6 horas por dia na internet. Comecei a jogar alguns [outros jogos](http://battlelog.battlefield.com/bf3/soldier/leandrooriente/stats/479146962/pc/) e a ter interesse por edição de imagens. Jogava umas 4 horas e aprendia algo novo no Photoshop na hora restante.
 
-Essa hora restante foi o suficiente para me garantir um estágio, que me direcionou a programação que em alguns anos viria a se tornar meu ganha pão.
+Essa hora restante foi o suficiente para me garantir um estágio, que me direcionou a programação que viria a se tornar meu ganha pão.
 
-Anos se passaram e consegui distruibuir melhor minhas horas online. Agora tinha uma profissião e precisava estudar com mais frequência. Passei a jogar bem menos e a dedicar boa parte do meu dia ao estudo. Acompanhado obviamente do facebook, blogs de humor idiota, youtube. Eram raros os momentos em que estava 100% focado no estudo.
+Anos se passaram e consegui distruibuir melhor minhas horas online. Agora tinha uma profissão e precisava estudar com mais frequência. Passei a jogar bem menos e a dedicar boa parte do meu dia ao estudo. Acompanhado obviamente do facebook, blogs de humor idiota, youtube. Eram raros os momentos em que estava 100% focado em algo importante.
 
 ## Tempos modernos
 
-De fato perdia muito tempo em coisas fúteis e investia pouco em coisas que realmente trariam algum valor para a minha vida. Isso perdurou por anos e piorou bastante com os smartphones e internet móvel. Foi quando conheci pessoas bacanas, que me mostraram como sair dessa. 
+De fato perdia muito tempo em coisas fúteis e investia pouco em coisas que realmente trariam algum valor para a minha vida. Isso perdurou por anos e piorou bastante com os smartphones e internet móvel. 
 
-Daqui em diante vou mostrar algumas mudanças que fiz no últimos anos, quais problemas resolveram e o que notei que melhorou.
+Foi quando conheci pessoas bacanas, que me mostraram que é preciso ter controle da tecnologia. 
+
+Daqui em diante vou mostrar algumas mudanças que fiz nos últimos anos, quais problemas resolveram e o que notei que melhorou.
 
 ### Notificações no celular
 
-Por padrão todo aplicativo é extremamente carente e vai demandar sua atenção a cada 10 minutos. Principalmente se for uma rede social ou algum joguinho. E nada mais improdutivo do que ser interrompido de 10 em 10 minutos com um bip ou o ronco do seu celular vibrando sobre a mesa. Então desativei todas as notificações do meu celular com exceção de mensagens diretas do Whatsapp, Facebook Messenger e SMS.
+Por padrão todo aplicativo é extremamente carente e vai demandar sua atenção a cada 10 minutos. Principalmente se for uma rede social ou algum joguinho. E nada mais improdutivo do que ser interrompido de 10 em 10 minutos com um bip ou o ronco do seu celular vibrando sobre a mesa. Então desativei todas as notificações do meu celular com exceção de mensagens diretas (nada de grupos) do Whatsapp, Facebook Messenger e SMS.
 
-No caso do Whatsapp tenho alguns grupos mutados eternamente que olho vez ou outra e não recebo notificações de mensagens de nenhum grupo.
-
-Dentre o grupo de aplicativos com notificações desativadas estão o Instagram, Facebook, Emails (falarei deles mais tarde) e Twitter.
-
-Meu celular parou de ser roncar o dia todo na mesa e passou a me alertar duas ou três vezes por dia quando alguém realmente estava falando diretamente comigo.
+Meu celular parou de roncar o dia todo na mesa e passou a me alertar duas ou três vezes por dia quando alguém realmente estava falando diretamente comigo.
 
 ### Notificações do facebook
 
 Meu facebook não apita. Sério! Quando alguém comenta na foto do churrasco do final de semana enquanto estou lendo algum artigo ele simplesmente adiciona um número (1) na abinha e pronto. Às vezes eu noto na hora, outras levo alguns minutos, em alguns casos só vejo horas depois, mas não vou perder a linha de raciocínio por conta de um comentário. 
-
-Aliás, vou dar um jeito de nem isso aparecer mais. Além disso desativei 90% das possíveis notificações do facebook.
 
 ### *Lixeira*{:.not} Feed do facebook
 
@@ -78,15 +74,13 @@ No final das contas parei de receber 200 emails por dia e passei a receber 10.
 
 Além disso desativei as notificações de email do celular e passei a acessar em determinados intervalos do dia. Todos conhecem muito bem a dinâmica do email e sabem que não é algo instântaneo como um chat, logo não preciso dar tanta prioridade a eles.
 
-Deixei de ser interrompido periodicamente por emails do Groupon, fotos engraçadas em que fui marcado no facebook ou um incrível tweet da @dilmabolada no twitter e passei a resolver o que preciso relacionado a emails duas ou três vezes por dia e de uma vez só.
-
 ### Roleta do unfollow 
 
 Tenho o costume de dar unfollows. Em qualquer coisa. Comentei a pouco sobre alguns emails periódicos mas faço isso no twitter, instagram, facebook...
 
-Sempre que vejo algo que não agrega nada, faço uma pequena avaliação no perfil da pessoa e vejo o que ela tem a oferecer de interessante. Se em 10 posts não achar nada, dou unfollow.
+Sempre que vejo algo que não agrega nada, faço uma pequena avaliação no perfil e vejo o que tem a oferecer de interessante. Se em 10 posts não achar nada, dou unfollow.
 
-Isso me poupa um tempo absurdo em redes sociais. Não preciso pescar tanto para achar algo que preste. E isso se aplica a qualquer um. Desde de o amigo novo que conheci numa festa até a minha mãe. To brincando mãe, eu vejo seus posts.
+Isso me poupa um tempo absurdo em redes sociais. Não preciso pescar tanto para achar algo que preste.
 
 ### Aposta de bar
 
@@ -94,25 +88,25 @@ Não basta chamar sua atenção na aula ou na reunião de trabalho. Seu celular 
 
 ![Aposta de bar](/media/bar-celular.jpg)
 
-Não vai demorar muito metade da mesa vai estar com o celular em uma mão e o copo na outra e no final das contas vão abrir um grupo no Whatsapp e conversar por lá mesmo.
+Não vai demorar muito para metade da mesa estar com o celular em uma mão e o copo na outra e no final das contas vão abrir um grupo no Whatsapp e conversar por lá mesmo.
 
 Então passei a fazer uma aposta. No início do encontro, todos colocam os celulares empilhados na mesa. O primeiro que retirar o celular da pilha paga a conta toda.
 
-Sempre que fizemos essa aposta a conversa rendeu por horas e todos se divertiram a noite toda. Sério, da pra rir na vida real.
+Sempre que fizemos essa aposta a conversa rendeu por horas e todos se divertiram a noite toda.
 
 ### Aposentando o telefone fixo
 
 Retirei o telefone fixo do meu quarto e não atendo praticamente nenhuma ligação residencial.
 
-Fiz isso depois que notei que de 10 ligações atendidas, 3 eram de algum banco oferecendo um novo benefício fantástico, 3 eram de uma operadora de celular com um recurso mais fantástico que os do banco, 2 eram engano, uma era de alguém sequestrando o filho que não tenho e a última era engano.
+As ligações feitas para o residencial geralmente são de bancos com propostas excelentes de me tomar dinheiro ou alguém sequestrando o filho que não tenho. Quem realmente precisa falar comigo, entra em contato pelo celular. 
 
 ### Troque meia hora de facebook por meia hora de um bom livro
 
-Sigo algumas pessoas legais no facebook e só curto fanpages que postem coisas que me agradam. A regra do unfollow se aplica da mesma forma para o unlike. Porém, ainda assim perco muito tempo com alguns posts que não tem valor nenhum na minha vida.
+Sigo algumas pessoas legais no facebook e só curto fanpages que postem coisas que me agradam. A regra do unfollow se aplica da mesma forma para o unlike. Porém, ainda assim perco muito tempo com alguns posts que não tem valor nenhum.
 
 Então peguei o tempo que levo no ônibus para ir e voltar do trabalho, que era dedicado ao facebook e passei a ler. Já li uns três livros desde que fiz essa troca e não me arrependo.
 
-Você provavelmente não lembra daquele post da sua prima sobre a corridinha matinal da Sabrina Sato na lagoa, mas provavelmente vai lembrar por anos de um [bom livro](http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=81519326&idlink=8787&adtype=pla&gclid=CKbew_HC_b4CFW4Q7Aod2h4ACg).
+Você provavelmente não lembra daquele post da sua prima sobre a corridinha matinal da Sabrina Sato na lagoa, mas vai lembrar por anos de um [bom livro](http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=81519326&idlink=8787&adtype=pla&gclid=CKbew_HC_b4CFW4Q7Aod2h4ACg).
 
 ### Modo avião
 
